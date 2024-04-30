@@ -1,0 +1,2147 @@
+distance,fish,trial,session,phase,epoch,experiment
+-2.722,1,1,1,baseline,1,exp1_dir1
+-0.432,1,2,1,baseline,1,exp1_dir1
+0.238,1,3,1,baseline,1,exp1_dir1
+1.608,1,4,1,baseline,1,exp1_dir1
+1.308,1,5,1,baseline,1,exp1_dir1
+2.238,1,6,1,perturbation,2,exp1_dir1
+5.828,1,7,1,perturbation,2,exp1_dir1
+2.568,1,8,1,perturbation,3,exp1_dir1
+0.827999999999999,1,9,1,perturbation,3,exp1_dir1
+1.298,1,10,1,perturbation,3,exp1_dir1
+0.127999999999999,1,11,1,perturbation,3,exp1_dir1
+4.588,1,12,1,perturbation,3,exp1_dir1
+2.128,1,13,1,perturbation,4,exp1_dir1
+-0.582000000000001,1,14,1,perturbation,4,exp1_dir1
+-1.242,1,15,1,perturbation,4,exp1_dir1
+-7.232,1,16,1,washout,5,exp1_dir1
+-3.122,1,17,1,washout,5,exp1_dir1
+-0.782000000000001,1,18,1,washout,6,exp1_dir1
+-3.562,1,19,1,washout,6,exp1_dir1
+-1.632,1,20,1,washout,6,exp1_dir1
+-3.102,1,21,1,washout,6,exp1_dir1
+0.406000000000001,1,1,2,baseline,1,exp1_dir1
+-1.484,1,2,2,baseline,1,exp1_dir1
+2.286,1,3,2,baseline,1,exp1_dir1
+0.636000000000001,1,4,2,baseline,1,exp1_dir1
+-1.844,1,5,2,baseline,1,exp1_dir1
+4.306,1,6,2,perturbation,2,exp1_dir1
+1.656,1,7,2,perturbation,2,exp1_dir1
+5.056,1,8,2,perturbation,3,exp1_dir1
+3.906,1,9,2,perturbation,3,exp1_dir1
+4.856,1,10,2,perturbation,3,exp1_dir1
+3.186,1,11,2,perturbation,3,exp1_dir1
+3.886,1,12,2,perturbation,3,exp1_dir1
+6.036,1,13,2,perturbation,4,exp1_dir1
+4.816,1,14,2,perturbation,4,exp1_dir1
+2.736,1,15,2,perturbation,4,exp1_dir1
+0.556000000000001,1,16,2,washout,5,exp1_dir1
+1.286,1,17,2,washout,5,exp1_dir1
+-1.334,1,18,2,washout,6,exp1_dir1
+-1.964,1,19,2,washout,6,exp1_dir1
+-0.113999999999999,1,20,2,washout,6,exp1_dir1
+-2.214,1,21,2,washout,6,exp1_dir1
+0.464,1,1,3,baseline,1,exp1_dir1
+2.084,1,2,3,baseline,1,exp1_dir1
+-3.906,1,3,3,baseline,1,exp1_dir1
+0.194,1,4,3,baseline,1,exp1_dir1
+1.164,1,5,3,baseline,1,exp1_dir1
+5.384,1,6,3,perturbation,2,exp1_dir1
+5.664,1,7,3,perturbation,2,exp1_dir1
+4.114,1,8,3,perturbation,3,exp1_dir1
+4.734,1,9,3,perturbation,3,exp1_dir1
+7.214,1,10,3,perturbation,3,exp1_dir1
+4.514,1,11,3,perturbation,3,exp1_dir1
+4.434,1,12,3,perturbation,3,exp1_dir1
+5.194,1,13,3,perturbation,4,exp1_dir1
+4.514,1,14,3,perturbation,4,exp1_dir1
+-0.356,1,15,3,perturbation,4,exp1_dir1
+-0.806,1,16,3,washout,5,exp1_dir1
+-0.436,1,17,3,washout,5,exp1_dir1
+1.034,1,18,3,washout,6,exp1_dir1
+-1.286,1,19,3,washout,6,exp1_dir1
+-0.786,1,20,3,washout,6,exp1_dir1
+-2.336,1,21,3,washout,6,exp1_dir1
+3.644,1,1,4,baseline,1,exp1_dir1
+-1.856,1,2,4,baseline,1,exp1_dir1
+0.494,1,3,4,baseline,1,exp1_dir1
+-2.906,1,4,4,baseline,1,exp1_dir1
+0.624,1,5,4,baseline,1,exp1_dir1
+0.274,1,6,4,perturbation,2,exp1_dir1
+8.224,1,7,4,perturbation,2,exp1_dir1
+5.524,1,8,4,perturbation,3,exp1_dir1
+1.544,1,9,4,perturbation,3,exp1_dir1
+2.874,1,10,4,perturbation,3,exp1_dir1
+7.544,1,11,4,perturbation,3,exp1_dir1
+6.224,1,12,4,perturbation,3,exp1_dir1
+1.824,1,13,4,perturbation,4,exp1_dir1
+3.754,1,14,4,perturbation,4,exp1_dir1
+3.834,1,15,4,perturbation,4,exp1_dir1
+-2.596,1,16,4,washout,5,exp1_dir1
+-0.776,1,17,4,washout,5,exp1_dir1
+-3.546,1,18,4,washout,6,exp1_dir1
+1.074,1,19,4,washout,6,exp1_dir1
+-1.076,1,20,4,washout,6,exp1_dir1
+-0.826,1,21,4,washout,6,exp1_dir1
+2.688,1,1,5,baseline,1,exp1_dir1
+0.888,1,2,5,baseline,1,exp1_dir1
+-6.572,1,3,5,baseline,1,exp1_dir1
+3.318,1,4,5,baseline,1,exp1_dir1
+-0.322000000000001,1,5,5,baseline,1,exp1_dir1
+13.408,1,6,5,perturbation,2,exp1_dir1
+6.688,1,7,5,perturbation,2,exp1_dir1
+8.498,1,8,5,perturbation,3,exp1_dir1
+9.318,1,9,5,perturbation,3,exp1_dir1
+4.158,1,10,5,perturbation,3,exp1_dir1
+8.348,1,11,5,perturbation,3,exp1_dir1
+4.028,1,12,5,perturbation,3,exp1_dir1
+3.058,1,13,5,perturbation,4,exp1_dir1
+5.228,1,14,5,perturbation,4,exp1_dir1
+6.488,1,15,5,perturbation,4,exp1_dir1
+0.838,1,16,5,washout,5,exp1_dir1
+1.588,1,17,5,washout,5,exp1_dir1
+3.178,1,18,5,washout,6,exp1_dir1
+3.768,1,19,5,washout,6,exp1_dir1
+-1.892,1,20,5,washout,6,exp1_dir1
+6.538,1,21,5,washout,6,exp1_dir1
+0.762,1,1,6,baseline,1,exp1_dir1
+-3.018,1,2,6,baseline,1,exp1_dir1
+-3.958,1,3,6,baseline,1,exp1_dir1
+2.732,1,4,6,baseline,1,exp1_dir1
+3.482,1,5,6,baseline,1,exp1_dir1
+7.902,1,6,6,perturbation,2,exp1_dir1
+2.072,1,7,6,perturbation,2,exp1_dir1
+4.502,1,8,6,perturbation,3,exp1_dir1
+4.102,1,9,6,perturbation,3,exp1_dir1
+6.522,1,10,6,perturbation,3,exp1_dir1
+4.532,1,11,6,perturbation,3,exp1_dir1
+-0.218,1,12,6,perturbation,3,exp1_dir1
+0.162,1,13,6,perturbation,4,exp1_dir1
+-1.278,1,14,6,perturbation,4,exp1_dir1
+2.032,1,15,6,perturbation,4,exp1_dir1
+-0.288,1,16,6,washout,5,exp1_dir1
+0.282,1,17,6,washout,5,exp1_dir1
+-1.068,1,18,6,washout,6,exp1_dir1
+1.462,1,19,6,washout,6,exp1_dir1
+1.588,1,1,7,baseline,1,exp1_dir1
+-2.112,1,2,7,baseline,1,exp1_dir1
+-1.092,1,3,7,baseline,1,exp1_dir1
+0.908,1,4,7,baseline,1,exp1_dir1
+0.708,1,5,7,baseline,1,exp1_dir1
+1.508,1,6,7,perturbation,2,exp1_dir1
+2.458,1,7,7,perturbation,2,exp1_dir1
+4.678,1,8,7,perturbation,3,exp1_dir1
+0.00800000000000001,1,9,7,perturbation,3,exp1_dir1
+3.378,1,10,7,perturbation,3,exp1_dir1
+3.578,1,11,7,perturbation,3,exp1_dir1
+5.078,1,12,7,perturbation,3,exp1_dir1
+2.508,1,13,7,perturbation,4,exp1_dir1
+1.908,1,14,7,perturbation,4,exp1_dir1
+2.308,1,15,7,perturbation,4,exp1_dir1
+-0.672,1,16,7,washout,5,exp1_dir1
+1.958,1,17,7,washout,5,exp1_dir1
+2.558,1,18,7,washout,6,exp1_dir1
+2.858,1,19,7,washout,6,exp1_dir1
+0.728,1,20,7,washout,6,exp1_dir1
+-1.56,1,1,8,baseline,1,exp1_dir1
+-1.91,1,2,8,baseline,1,exp1_dir1
+0.24,1,3,8,baseline,1,exp1_dir1
+2.04,1,4,8,baseline,1,exp1_dir1
+1.19,1,5,8,baseline,1,exp1_dir1
+3.92,1,6,8,perturbation,2,exp1_dir1
+0.56,1,7,8,perturbation,2,exp1_dir1
+0.0600000000000001,1,8,8,perturbation,3,exp1_dir1
+2.75,1,9,8,perturbation,3,exp1_dir1
+0.51,1,10,8,perturbation,3,exp1_dir1
+0.0600000000000001,1,11,8,perturbation,3,exp1_dir1
+1.9,1,12,8,perturbation,3,exp1_dir1
+0.98,1,13,8,perturbation,4,exp1_dir1
+-0.41,1,14,8,perturbation,4,exp1_dir1
+1.88,1,15,8,perturbation,4,exp1_dir1
+-0.61,1,16,8,washout,5,exp1_dir1
+1.49,1,17,8,washout,5,exp1_dir1
+1.44,1,18,8,washout,6,exp1_dir1
+3.334,2,1,1,baseline,1,exp1_dir1
+-0.0659999999999998,2,2,1,baseline,1,exp1_dir1
+-2.686,2,3,1,baseline,1,exp1_dir1
+-0.966,2,4,1,baseline,1,exp1_dir1
+0.384,2,5,1,baseline,1,exp1_dir1
+5.214,2,6,1,perturbation,2,exp1_dir1
+6.034,2,7,1,perturbation,2,exp1_dir1
+1.134,2,8,1,perturbation,3,exp1_dir1
+0.764,2,9,1,perturbation,3,exp1_dir1
+5.214,2,10,1,perturbation,3,exp1_dir1
+2.434,2,11,1,perturbation,3,exp1_dir1
+0.834000000000001,2,12,1,perturbation,3,exp1_dir1
+1.714,2,13,1,perturbation,4,exp1_dir1
+1.124,2,14,1,perturbation,4,exp1_dir1
+-2.156,2,15,1,perturbation,4,exp1_dir1
+-3.536,2,16,1,washout,5,exp1_dir1
+-1.486,2,17,1,washout,5,exp1_dir1
+-2.016,2,18,1,washout,6,exp1_dir1
+-3.536,2,19,1,washout,6,exp1_dir1
+-1.366,2,20,1,washout,6,exp1_dir1
+-1.666,2,21,1,washout,6,exp1_dir1
+4.644,2,1,2,baseline,1,exp1_dir1
+1.984,2,2,2,baseline,1,exp1_dir1
+-4.116,2,3,2,baseline,1,exp1_dir1
+0.0140000000000002,2,4,2,baseline,1,exp1_dir1
+-2.526,2,5,2,baseline,1,exp1_dir1
+6.054,2,6,2,perturbation,2,exp1_dir1
+1.314,2,7,2,perturbation,2,exp1_dir1
+0.984,2,8,2,perturbation,3,exp1_dir1
+0.374,2,9,2,perturbation,3,exp1_dir1
+-0.886,2,10,2,perturbation,3,exp1_dir1
+-1.556,2,11,2,perturbation,3,exp1_dir1
+-2.046,2,12,2,perturbation,3,exp1_dir1
+0.374,2,13,2,perturbation,4,exp1_dir1
+-4.366,2,14,2,perturbation,4,exp1_dir1
+0.984,2,15,2,perturbation,4,exp1_dir1
+-4.436,2,16,2,washout,5,exp1_dir1
+-4.066,2,17,2,washout,5,exp1_dir1
+0.514,2,18,2,washout,6,exp1_dir1
+-2.596,2,19,2,washout,6,exp1_dir1
+0.164,2,20,2,washout,6,exp1_dir1
+-5.006,2,21,2,washout,6,exp1_dir1
+-1.584,2,1,3,baseline,1,exp1_dir1
+1.776,2,2,3,baseline,1,exp1_dir1
+1.136,2,3,3,baseline,1,exp1_dir1
+-1.384,2,4,3,baseline,1,exp1_dir1
+0.0559999999999996,2,5,3,baseline,1,exp1_dir1
+4.216,2,6,3,perturbation,2,exp1_dir1
+4.366,2,7,3,perturbation,2,exp1_dir1
+-1.354,2,8,3,perturbation,3,exp1_dir1
+1.006,2,9,3,perturbation,3,exp1_dir1
+2.516,2,10,3,perturbation,3,exp1_dir1
+2.316,2,11,3,perturbation,3,exp1_dir1
+-0.144,2,12,3,perturbation,3,exp1_dir1
+4.676,2,13,3,perturbation,4,exp1_dir1
+-1.244,2,14,3,perturbation,4,exp1_dir1
+1.366,2,15,3,perturbation,4,exp1_dir1
+-3.294,2,16,3,washout,5,exp1_dir1
+1.446,2,17,3,washout,5,exp1_dir1
+-1.604,2,18,3,washout,6,exp1_dir1
+-2.834,2,19,3,washout,6,exp1_dir1
+-1.474,2,20,3,washout,6,exp1_dir1
+1.902,2,1,4,baseline,1,exp1_dir1
+2.742,2,2,4,baseline,1,exp1_dir1
+-2.858,2,3,4,baseline,1,exp1_dir1
+-0.488,2,4,4,baseline,1,exp1_dir1
+-1.298,2,5,4,baseline,1,exp1_dir1
+6.762,2,6,4,perturbation,2,exp1_dir1
+6.092,2,7,4,perturbation,2,exp1_dir1
+-1.088,2,8,4,perturbation,3,exp1_dir1
+-3.838,2,9,4,perturbation,3,exp1_dir1
+-4.148,2,10,4,perturbation,3,exp1_dir1
+-3.788,2,11,4,perturbation,3,exp1_dir1
+3.412,2,12,4,perturbation,3,exp1_dir1
+-4.528,2,13,4,perturbation,4,exp1_dir1
+-2.728,2,14,4,perturbation,4,exp1_dir1
+-2.728,2,15,4,perturbation,4,exp1_dir1
+-8.858,2,16,4,washout,5,exp1_dir1
+-8.268,2,17,4,washout,5,exp1_dir1
+-6.648,2,18,4,washout,6,exp1_dir1
+-7.318,2,19,4,washout,6,exp1_dir1
+-6.368,2,20,4,washout,6,exp1_dir1
+-7.448,2,21,4,washout,6,exp1_dir1
+-2.818,2,1,5,baseline,1,exp1_dir1
+-6.888,2,2,5,baseline,1,exp1_dir1
+22.112,2,3,5,baseline,1,exp1_dir1
+-6.098,2,4,5,baseline,1,exp1_dir1
+-6.308,2,5,5,baseline,1,exp1_dir1
+0.342000000000001,2,6,5,perturbation,2,exp1_dir1
+-0.997999999999999,2,7,5,perturbation,2,exp1_dir1
+-3.818,2,8,5,perturbation,3,exp1_dir1
+-6.758,2,9,5,perturbation,3,exp1_dir1
+-5.638,2,10,5,perturbation,3,exp1_dir1
+-0.708,2,11,5,perturbation,3,exp1_dir1
+-3.638,2,12,5,perturbation,3,exp1_dir1
+-4.578,2,13,5,perturbation,4,exp1_dir1
+-7.048,2,14,5,perturbation,4,exp1_dir1
+-4.128,2,15,5,perturbation,4,exp1_dir1
+-9.458,2,16,5,washout,5,exp1_dir1
+-11.608,2,17,5,washout,5,exp1_dir1
+-7.718,2,18,5,washout,6,exp1_dir1
+-8.198,2,19,5,washout,6,exp1_dir1
+-9.198,2,20,5,washout,6,exp1_dir1
+-9.768,2,21,5,washout,6,exp1_dir1
+3.842,2,1,6,baseline,1,exp1_dir1
+3.772,2,2,6,baseline,1,exp1_dir1
+-1.408,2,3,6,baseline,1,exp1_dir1
+-3.108,2,4,6,baseline,1,exp1_dir1
+-3.098,2,5,6,baseline,1,exp1_dir1
+3.212,2,6,6,perturbation,2,exp1_dir1
+8.082,2,7,6,perturbation,2,exp1_dir1
+2.442,2,8,6,perturbation,3,exp1_dir1
+0.0819999999999999,2,9,6,perturbation,3,exp1_dir1
+1.542,2,10,6,perturbation,3,exp1_dir1
+-0.818000000000001,2,11,6,perturbation,3,exp1_dir1
+3.892,2,12,6,perturbation,3,exp1_dir1
+-0.828,2,13,6,perturbation,4,exp1_dir1
+-3.048,2,14,6,perturbation,4,exp1_dir1
+-2.308,2,15,6,perturbation,4,exp1_dir1
+-3.638,2,16,6,washout,5,exp1_dir1
+-2.798,2,17,6,washout,5,exp1_dir1
+-3.668,2,18,6,washout,6,exp1_dir1
+-2.208,2,19,6,washout,6,exp1_dir1
+-2.278,2,20,6,washout,6,exp1_dir1
+-3.388,2,21,6,washout,6,exp1_dir1
+1.602,2,1,7,baseline,1,exp1_dir1
+-1.398,2,2,7,baseline,1,exp1_dir1
+-0.468,2,3,7,baseline,1,exp1_dir1
+1.732,2,4,7,baseline,1,exp1_dir1
+-1.468,2,5,7,baseline,1,exp1_dir1
+6.532,2,6,7,perturbation,2,exp1_dir1
+1.472,2,7,7,perturbation,2,exp1_dir1
+-0.528,2,8,7,perturbation,3,exp1_dir1
+5.582,2,9,7,perturbation,3,exp1_dir1
+1.062,2,10,7,perturbation,3,exp1_dir1
+3.272,2,11,7,perturbation,3,exp1_dir1
+1.222,2,12,7,perturbation,3,exp1_dir1
+4.632,2,13,7,perturbation,4,exp1_dir1
+3.372,2,14,7,perturbation,4,exp1_dir1
+0.862000000000001,2,15,7,perturbation,4,exp1_dir1
+-1.978,2,16,7,washout,5,exp1_dir1
+0.172000000000001,2,17,7,washout,5,exp1_dir1
+-1.078,2,18,7,washout,6,exp1_dir1
+-0.778,2,19,7,washout,6,exp1_dir1
+-0.287999999999999,2,20,7,washout,6,exp1_dir1
+-1.288,2,21,7,washout,6,exp1_dir1
+0.218000000000001,2,1,8,baseline,1,exp1_dir1
+2.858,2,2,8,baseline,1,exp1_dir1
+0.858000000000001,2,3,8,baseline,1,exp1_dir1
+-3.582,2,4,8,baseline,1,exp1_dir1
+-0.351999999999999,2,5,8,baseline,1,exp1_dir1
+5.218,2,6,8,perturbation,2,exp1_dir1
+3.378,2,7,8,perturbation,2,exp1_dir1
+2.398,2,8,8,perturbation,3,exp1_dir1
+1.368,2,9,8,perturbation,3,exp1_dir1
+-0.681999999999999,2,10,8,perturbation,3,exp1_dir1
+-0.351999999999999,2,11,8,perturbation,3,exp1_dir1
+0.398000000000001,2,12,8,perturbation,3,exp1_dir1
+7.108,2,13,8,perturbation,4,exp1_dir1
+0.088000000000001,2,14,8,perturbation,4,exp1_dir1
+4.058,2,15,8,perturbation,4,exp1_dir1
+-2.382,2,16,8,washout,5,exp1_dir1
+1.108,2,17,8,washout,5,exp1_dir1
+-0.712,2,18,8,washout,6,exp1_dir1
+0.0580000000000007,2,19,8,washout,6,exp1_dir1
+-1.832,2,20,8,washout,6,exp1_dir1
+-1.912,2,21,8,washout,6,exp1_dir1
+2.228,2,1,9,baseline,1,exp1_dir1
+1.918,2,2,9,baseline,1,exp1_dir1
+-2.982,2,3,9,baseline,1,exp1_dir1
+-1.852,2,4,9,baseline,1,exp1_dir1
+0.688000000000001,2,5,9,baseline,1,exp1_dir1
+2.998,2,6,9,perturbation,2,exp1_dir1
+-1.262,2,7,9,perturbation,2,exp1_dir1
+1.118,2,8,9,perturbation,3,exp1_dir1
+1.728,2,9,9,perturbation,3,exp1_dir1
+0.638000000000001,2,10,9,perturbation,3,exp1_dir1
+3.918,2,11,9,perturbation,3,exp1_dir1
+-3.902,2,12,9,perturbation,3,exp1_dir1
+-0.181999999999999,2,13,9,perturbation,4,exp1_dir1
+1.838,2,14,9,perturbation,4,exp1_dir1
+-0.00199999999999889,2,15,9,perturbation,4,exp1_dir1
+-5.822,2,16,9,washout,5,exp1_dir1
+-2.182,2,17,9,washout,5,exp1_dir1
+-4.112,2,18,9,washout,6,exp1_dir1
+-1.722,2,19,9,washout,6,exp1_dir1
+-1.232,2,20,9,washout,6,exp1_dir1
+-2.262,2,21,9,washout,6,exp1_dir1
+2.03,2,1,10,baseline,1,exp1_dir1
+-0.79,2,2,10,baseline,1,exp1_dir1
+-2.84,2,3,10,baseline,1,exp1_dir1
+0.75,2,4,10,baseline,1,exp1_dir1
+0.85,2,5,10,baseline,1,exp1_dir1
+6.85,2,6,10,perturbation,2,exp1_dir1
+2.44,2,7,10,perturbation,2,exp1_dir1
+-0.25,2,8,10,perturbation,3,exp1_dir1
+0.899999999999999,2,9,10,perturbation,3,exp1_dir1
+5.87,2,10,10,perturbation,3,exp1_dir1
+1.82,2,11,10,perturbation,3,exp1_dir1
+8.28,2,12,10,perturbation,3,exp1_dir1
+0.92,2,13,10,perturbation,4,exp1_dir1
+4.26,2,14,10,perturbation,4,exp1_dir1
+8.36,2,15,10,perturbation,4,exp1_dir1
+-2.9,2,16,10,washout,5,exp1_dir1
+-1.35,2,17,10,washout,5,exp1_dir1
+3.46,2,18,10,washout,6,exp1_dir1
+2.44,2,19,10,washout,6,exp1_dir1
+-0.02,2,20,10,washout,6,exp1_dir1
+-0.64,2,21,10,washout,6,exp1_dir1
+-2.88,2,1,11,baseline,1,exp1_dir1
+-0.210000000000001,2,2,11,baseline,1,exp1_dir1
+1.58,2,3,11,baseline,1,exp1_dir1
+0.449999999999999,2,4,11,baseline,1,exp1_dir1
+1.06,2,5,11,baseline,1,exp1_dir1
+4.96,2,6,11,perturbation,2,exp1_dir1
+0.22,2,7,11,perturbation,2,exp1_dir1
+2.53,2,8,11,perturbation,3,exp1_dir1
+-0.04,2,9,11,perturbation,3,exp1_dir1
+0.71,2,10,11,perturbation,3,exp1_dir1
+-3.7,2,11,11,perturbation,3,exp1_dir1
+5.78,2,12,11,perturbation,3,exp1_dir1
+2.96,2,13,11,perturbation,4,exp1_dir1
+0.989999999999999,2,14,11,perturbation,4,exp1_dir1
+0.71,2,15,11,perturbation,4,exp1_dir1
+-3.19,2,16,11,washout,5,exp1_dir1
+-0.19,2,17,11,washout,5,exp1_dir1
+-1.96,2,18,11,washout,6,exp1_dir1
+-0.420000000000001,2,19,11,washout,6,exp1_dir1
+1.97,2,20,11,washout,6,exp1_dir1
+-0.0600000000000005,2,21,11,washout,6,exp1_dir1
+-0.714,2,1,12,baseline,1,exp1_dir1
+0.665999999999999,2,2,12,baseline,1,exp1_dir1
+0.776,2,3,12,baseline,1,exp1_dir1
+1.036,2,4,12,baseline,1,exp1_dir1
+-1.764,2,5,12,baseline,1,exp1_dir1
+5.316,2,6,12,perturbation,2,exp1_dir1
+-1.254,2,7,12,perturbation,2,exp1_dir1
+-4.014,2,8,12,perturbation,3,exp1_dir1
+-3.404,2,9,12,perturbation,3,exp1_dir1
+-1.044,2,10,12,perturbation,3,exp1_dir1
+-1.994,2,11,12,perturbation,3,exp1_dir1
+-4.144,2,12,12,perturbation,3,exp1_dir1
+-3.274,2,13,12,perturbation,4,exp1_dir1
+-2.684,2,14,12,perturbation,4,exp1_dir1
+-0.814,2,15,12,perturbation,4,exp1_dir1
+-4.534,2,16,12,washout,5,exp1_dir1
+-8.424,2,17,12,washout,5,exp1_dir1
+-8.684,2,18,12,washout,6,exp1_dir1
+-6.604,2,19,12,washout,6,exp1_dir1
+-6.784,2,20,12,washout,6,exp1_dir1
+-5.914,2,21,12,washout,6,exp1_dir1
+-0.76,2,1,13,baseline,1,exp1_dir1
+-0.4,2,2,13,baseline,1,exp1_dir1
+-1.07,2,3,13,baseline,1,exp1_dir1
+2.47,2,4,13,baseline,1,exp1_dir1
+-0.24,2,5,13,baseline,1,exp1_dir1
+1.29,2,6,13,perturbation,2,exp1_dir1
+0.88,2,7,13,perturbation,2,exp1_dir1
+1.91,2,8,13,perturbation,3,exp1_dir1
+-0.91,2,9,13,perturbation,3,exp1_dir1
+-2.06,2,10,13,perturbation,3,exp1_dir1
+-3.14,2,11,13,perturbation,3,exp1_dir1
+-2.55,2,12,13,perturbation,4,exp1_dir1
+1.8,2,13,13,perturbation,4,exp1_dir1
+-0.5,2,14,13,perturbation,4,exp1_dir1
+-7.6,2,15,13,washout,5,exp1_dir1
+-1.66,2,16,13,washout,5,exp1_dir1
+-3.7,2,17,13,washout,6,exp1_dir1
+-1.14,2,18,13,washout,6,exp1_dir1
+-2.55,2,19,13,washout,6,exp1_dir1
+-3.93,2,20,13,washout,6,exp1_dir1
+0.602,2,1,14,baseline,1,exp1_dir1
+-0.137999999999999,2,2,14,baseline,1,exp1_dir1
+-0.108,2,3,14,baseline,1,exp1_dir1
+-1.188,2,4,14,baseline,1,exp1_dir1
+0.832000000000001,2,5,14,baseline,1,exp1_dir1
+7.062,2,6,14,perturbation,2,exp1_dir1
+2.832,2,7,14,perturbation,2,exp1_dir1
+0.652,2,8,14,perturbation,3,exp1_dir1
+2.452,2,9,14,perturbation,3,exp1_dir1
+-1.598,2,10,14,perturbation,3,exp1_dir1
+-0.938,2,11,14,perturbation,3,exp1_dir1
+2.632,2,12,14,perturbation,3,exp1_dir1
+0.682,2,13,14,perturbation,4,exp1_dir1
+2.352,2,14,14,perturbation,4,exp1_dir1
+2.042,2,15,14,perturbation,4,exp1_dir1
+-2.418,2,16,14,washout,5,exp1_dir1
+0.782,2,17,14,washout,5,exp1_dir1
+-0.858,2,18,14,washout,6,exp1_dir1
+-1.648,2,19,14,washout,6,exp1_dir1
+0.812,2,20,14,washout,6,exp1_dir1
+1.302,2,21,14,washout,6,exp1_dir1
+-0.00599999999999978,2,1,15,baseline,1,exp1_dir1
+0.384,2,2,15,baseline,1,exp1_dir1
+2.714,2,3,15,baseline,1,exp1_dir1
+-0.906,2,4,15,baseline,1,exp1_dir1
+-2.186,2,5,15,baseline,1,exp1_dir1
+2.174,2,6,15,perturbation,2,exp1_dir1
+3.534,2,7,15,perturbation,2,exp1_dir1
+-2.486,2,8,15,perturbation,3,exp1_dir1
+-2.316,2,9,15,perturbation,3,exp1_dir1
+-0.436,2,10,15,perturbation,3,exp1_dir1
+-4.046,2,11,15,perturbation,3,exp1_dir1
+-1.006,2,12,15,perturbation,3,exp1_dir1
+-1.106,2,13,15,perturbation,4,exp1_dir1
+-0.446,2,14,15,perturbation,4,exp1_dir1
+2.074,2,15,15,perturbation,4,exp1_dir1
+-2.516,2,16,15,washout,5,exp1_dir1
+0.714,2,17,15,washout,5,exp1_dir1
+-2.616,2,18,15,washout,6,exp1_dir1
+1.194,2,19,15,washout,6,exp1_dir1
+0.304,2,20,15,washout,6,exp1_dir1
+-1.516,2,21,15,washout,6,exp1_dir1
+-1.4,2,1,16,baseline,1,exp1_dir1
+0.22,2,2,16,baseline,1,exp1_dir1
+0.0699999999999998,2,3,16,baseline,1,exp1_dir1
+-0.83,2,4,16,baseline,1,exp1_dir1
+1.94,2,5,16,baseline,1,exp1_dir1
+3.45,2,6,16,perturbation,2,exp1_dir1
+0.81,2,7,16,perturbation,2,exp1_dir1
+0.58,2,8,16,perturbation,3,exp1_dir1
+0.63,2,9,16,perturbation,3,exp1_dir1
+-0.96,2,10,16,perturbation,3,exp1_dir1
+0.99,2,11,16,perturbation,3,exp1_dir1
+2.09,2,12,16,perturbation,3,exp1_dir1
+0.45,2,13,16,perturbation,4,exp1_dir1
+2.02,2,14,16,perturbation,4,exp1_dir1
+4.07,2,15,16,perturbation,4,exp1_dir1
+-3.77,2,16,16,washout,5,exp1_dir1
+0.17,2,17,16,washout,5,exp1_dir1
+-1.31,2,18,16,washout,6,exp1_dir1
+1.43,2,19,16,washout,6,exp1_dir1
+1.66,2,20,16,washout,6,exp1_dir1
+0.12,2,21,16,washout,6,exp1_dir1
+-3.77,2,1,17,baseline,1,exp1_dir1
+1.32,2,2,17,baseline,1,exp1_dir1
+1,2,3,17,baseline,1,exp1_dir1
+0.15,2,4,17,baseline,1,exp1_dir1
+1.3,2,5,17,baseline,1,exp1_dir1
+2.85,2,6,17,perturbation,2,exp1_dir1
+-0.55,2,7,17,perturbation,2,exp1_dir1
+0.1,2,8,17,perturbation,3,exp1_dir1
+2.9,2,9,17,perturbation,3,exp1_dir1
+4.05,2,10,17,perturbation,3,exp1_dir1
+-0.7,2,11,17,perturbation,3,exp1_dir1
+-3.85,2,12,17,perturbation,3,exp1_dir1
+-0.63,2,13,17,perturbation,4,exp1_dir1
+0.27,2,14,17,perturbation,4,exp1_dir1
+-1.3,2,15,17,perturbation,4,exp1_dir1
+0.15,2,16,17,washout,5,exp1_dir1
+1.4,2,17,17,washout,5,exp1_dir1
+5.07,2,18,17,washout,6,exp1_dir1
+-4.42,2,19,17,washout,6,exp1_dir1
+2.77,2,20,17,washout,6,exp1_dir1
+3.2,2,21,17,washout,6,exp1_dir1
+0.466,3,1,1,baseline,1,exp1_dir1
+1.156,3,2,1,baseline,1,exp1_dir1
+2.046,3,3,1,baseline,1,exp1_dir1
+-0.934,3,4,1,baseline,1,exp1_dir1
+-2.734,3,5,1,baseline,1,exp1_dir1
+9.106,3,6,1,perturbation,2,exp1_dir1
+6.726,3,7,1,perturbation,2,exp1_dir1
+0.736,3,8,1,perturbation,3,exp1_dir1
+-1.484,3,9,1,perturbation,3,exp1_dir1
+2.346,3,10,1,perturbation,3,exp1_dir1
+-0.804,3,11,1,perturbation,3,exp1_dir1
+-0.164,3,12,1,perturbation,3,exp1_dir1
+2.196,3,13,1,perturbation,4,exp1_dir1
+1.386,3,14,1,perturbation,4,exp1_dir1
+2.706,3,15,1,perturbation,4,exp1_dir1
+-0.884,3,16,1,washout,5,exp1_dir1
+-1.464,3,17,1,washout,5,exp1_dir1
+0.806,3,18,1,washout,6,exp1_dir1
+-2.634,3,19,1,washout,6,exp1_dir1
+-2.144,3,20,1,washout,6,exp1_dir1
+0.986,3,21,1,washout,6,exp1_dir1
+1.718,3,1,2,baseline,1,exp1_dir1
+0.488,3,2,2,baseline,1,exp1_dir1
+-1.462,3,3,2,baseline,1,exp1_dir1
+-1.212,3,4,2,baseline,1,exp1_dir1
+0.468,3,5,2,baseline,1,exp1_dir1
+7.178,3,6,2,perturbation,2,exp1_dir1
+-1.862,3,7,2,perturbation,2,exp1_dir1
+4.048,3,8,2,perturbation,3,exp1_dir1
+1.678,3,9,2,perturbation,3,exp1_dir1
+-1.132,3,10,2,perturbation,3,exp1_dir1
+2.158,3,11,2,perturbation,3,exp1_dir1
+3.118,3,12,2,perturbation,3,exp1_dir1
+1.308,3,13,2,perturbation,4,exp1_dir1
+3.528,3,14,2,perturbation,4,exp1_dir1
+4.158,3,15,2,perturbation,4,exp1_dir1
+-4.152,3,16,2,washout,5,exp1_dir1
+-3.002,3,17,2,washout,5,exp1_dir1
+-1.552,3,18,2,washout,6,exp1_dir1
+-3.372,3,19,2,washout,6,exp1_dir1
+-0.492,3,20,2,washout,6,exp1_dir1
+-1.842,3,21,2,washout,6,exp1_dir1
+-9.84,3,1,3,baseline,1,exp1_dir1
+4.61,3,2,3,baseline,1,exp1_dir1
+4.2,3,3,3,baseline,1,exp1_dir1
+-2.27,3,4,3,baseline,1,exp1_dir1
+3.3,3,5,3,baseline,1,exp1_dir1
+10.49,3,6,3,perturbation,2,exp1_dir1
+4.18,3,7,3,perturbation,2,exp1_dir1
+5.95,3,8,3,perturbation,3,exp1_dir1
+4.84,3,9,3,perturbation,3,exp1_dir1
+4.28,3,10,3,perturbation,3,exp1_dir1
+7.3,3,11,3,perturbation,3,exp1_dir1
+4.05,3,12,3,perturbation,3,exp1_dir1
+4.72,3,13,3,perturbation,4,exp1_dir1
+3.86,3,14,3,perturbation,4,exp1_dir1
+4.63,3,15,3,perturbation,4,exp1_dir1
+3.16,3,16,3,washout,5,exp1_dir1
+3.86,3,17,3,washout,5,exp1_dir1
+5.38,3,18,3,washout,6,exp1_dir1
+4.18,3,19,3,washout,6,exp1_dir1
+0.97,3,20,3,washout,6,exp1_dir1
+-2.21,3,21,3,washout,6,exp1_dir1
+1.574,3,1,4,baseline,1,exp1_dir1
+0.434,3,2,4,baseline,1,exp1_dir1
+-1.496,3,3,4,baseline,1,exp1_dir1
+-0.886,3,4,4,baseline,1,exp1_dir1
+0.374,3,5,4,baseline,1,exp1_dir1
+1.124,3,6,4,perturbation,2,exp1_dir1
+0.754,3,7,4,perturbation,2,exp1_dir1
+1.664,3,8,4,perturbation,3,exp1_dir1
+1.624,3,9,4,perturbation,3,exp1_dir1
+1.274,3,10,4,perturbation,3,exp1_dir1
+1.114,3,11,4,perturbation,3,exp1_dir1
+0.204,3,12,4,perturbation,3,exp1_dir1
+-1.176,3,13,4,perturbation,4,exp1_dir1
+1.074,3,14,4,perturbation,4,exp1_dir1
+4.594,3,15,4,perturbation,4,exp1_dir1
+-3.946,3,16,4,washout,5,exp1_dir1
+-2.776,3,17,4,washout,5,exp1_dir1
+-2.156,3,18,4,washout,6,exp1_dir1
+-2.206,3,19,4,washout,6,exp1_dir1
+-1.136,3,20,4,washout,6,exp1_dir1
+-3.216,3,21,4,washout,6,exp1_dir1
+1.018,3,1,5,baseline,1,exp1_dir1
+0.518,3,2,5,baseline,1,exp1_dir1
+3.128,3,3,5,baseline,1,exp1_dir1
+-3.682,3,4,5,baseline,1,exp1_dir1
+-0.982,3,5,5,baseline,1,exp1_dir1
+6.108,3,6,5,perturbation,2,exp1_dir1
+5.308,3,7,5,perturbation,2,exp1_dir1
+6.358,3,8,5,perturbation,3,exp1_dir1
+4.948,3,9,5,perturbation,3,exp1_dir1
+3.988,3,10,5,perturbation,3,exp1_dir1
+4.648,3,11,5,perturbation,3,exp1_dir1
+-2.732,3,12,5,perturbation,3,exp1_dir1
+-3.052,3,13,5,perturbation,4,exp1_dir1
+5.608,3,14,5,perturbation,4,exp1_dir1
+1.218,3,15,5,perturbation,4,exp1_dir1
+-0.512,3,16,5,washout,5,exp1_dir1
+-0.352,3,17,5,washout,5,exp1_dir1
+-0.492,3,18,5,washout,6,exp1_dir1
+-1.122,3,19,5,washout,6,exp1_dir1
+1.068,3,20,5,washout,6,exp1_dir1
+2.898,3,21,5,washout,6,exp1_dir1
+0.52,3,1,6,baseline,1,exp1_dir1
+-1.37,3,2,6,baseline,1,exp1_dir1
+-0.16,3,3,6,baseline,1,exp1_dir1
+-0.0299999999999998,3,4,6,baseline,1,exp1_dir1
+1.04,3,5,6,baseline,1,exp1_dir1
+3.86,3,6,6,perturbation,2,exp1_dir1
+2.54,3,7,6,perturbation,2,exp1_dir1
+1.41,3,8,6,perturbation,3,exp1_dir1
+0.16,3,9,6,perturbation,3,exp1_dir1
+1.84,3,10,6,perturbation,3,exp1_dir1
+-0.66,3,11,6,perturbation,3,exp1_dir1
+-1.12,3,12,6,perturbation,3,exp1_dir1
+1.54,3,13,6,perturbation,4,exp1_dir1
+0.36,3,14,6,perturbation,4,exp1_dir1
+-0.44,3,15,6,perturbation,4,exp1_dir1
+-2.3,3,16,6,washout,5,exp1_dir1
+-1.91,3,17,6,washout,5,exp1_dir1
+-2.07,3,18,6,washout,6,exp1_dir1
+-4.59,3,19,6,washout,6,exp1_dir1
+-3.82,3,20,6,washout,6,exp1_dir1
+-3.96,3,21,6,washout,6,exp1_dir1
+0.734,3,1,7,baseline,1,exp1_dir1
+-0.506,3,2,7,baseline,1,exp1_dir1
+-1.526,3,3,7,baseline,1,exp1_dir1
+-0.036,3,4,7,baseline,1,exp1_dir1
+1.334,3,5,7,baseline,1,exp1_dir1
+6.574,3,6,7,perturbation,2,exp1_dir1
+1.384,3,7,7,perturbation,2,exp1_dir1
+4.014,3,8,7,perturbation,3,exp1_dir1
+1.614,3,9,7,perturbation,3,exp1_dir1
+8.544,3,10,7,perturbation,3,exp1_dir1
+2.384,3,11,7,perturbation,3,exp1_dir1
+6.724,3,12,7,perturbation,3,exp1_dir1
+-1.316,3,13,7,perturbation,4,exp1_dir1
+1.704,3,14,7,perturbation,4,exp1_dir1
+2.944,3,15,7,perturbation,4,exp1_dir1
+-1.266,3,16,7,washout,5,exp1_dir1
+-0.596,3,17,7,washout,5,exp1_dir1
+-2.406,3,18,7,washout,6,exp1_dir1
+0.874,3,19,7,washout,6,exp1_dir1
+2.244,3,20,7,washout,6,exp1_dir1
+0.574,3,21,7,washout,6,exp1_dir1
+4.026,3,1,8,baseline,1,exp1_dir1
+0.305999999999999,3,2,8,baseline,1,exp1_dir1
+0.425999999999999,3,3,8,baseline,1,exp1_dir1
+-4.614,3,4,8,baseline,1,exp1_dir1
+-0.144000000000001,3,5,8,baseline,1,exp1_dir1
+3.476,3,6,8,perturbation,2,exp1_dir1
+4.766,3,7,8,perturbation,2,exp1_dir1
+3.786,3,8,8,perturbation,3,exp1_dir1
+0.956,3,9,8,perturbation,3,exp1_dir1
+2.776,3,10,8,perturbation,3,exp1_dir1
+3.356,3,11,8,perturbation,3,exp1_dir1
+6.236,3,12,8,perturbation,4,exp1_dir1
+2.886,3,13,8,perturbation,4,exp1_dir1
+3.216,3,14,8,perturbation,4,exp1_dir1
+-4.804,3,15,8,washout,5,exp1_dir1
+-2.044,3,16,8,washout,5,exp1_dir1
+-1.114,3,17,8,washout,6,exp1_dir1
+-1.044,3,18,8,washout,6,exp1_dir1
+-1.834,3,19,8,washout,6,exp1_dir1
+-3.394,3,20,8,washout,6,exp1_dir1
+2.258,3,1,9,baseline,1,exp1_dir1
+0.188,3,2,9,baseline,1,exp1_dir1
+-0.0320000000000005,3,3,9,baseline,1,exp1_dir1
+-3.042,3,4,9,baseline,1,exp1_dir1
+0.628,3,5,9,baseline,1,exp1_dir1
+14.928,3,6,9,perturbation,2,exp1_dir1
+5.978,3,7,9,perturbation,2,exp1_dir1
+4.128,3,8,9,perturbation,3,exp1_dir1
+3.258,3,9,9,perturbation,3,exp1_dir1
+4.658,3,10,9,perturbation,3,exp1_dir1
+2.858,3,11,9,perturbation,3,exp1_dir1
+7.378,3,12,9,perturbation,3,exp1_dir1
+5.808,3,13,9,perturbation,4,exp1_dir1
+5.078,3,14,9,perturbation,4,exp1_dir1
+3.478,3,15,9,perturbation,4,exp1_dir1
+2.828,3,16,9,washout,5,exp1_dir1
+2.758,3,17,9,washout,5,exp1_dir1
+2.328,3,18,9,washout,6,exp1_dir1
+2.408,3,19,9,washout,6,exp1_dir1
+1.908,3,20,9,washout,6,exp1_dir1
+2.708,3,21,9,washout,6,exp1_dir1
+1.506,3,1,10,baseline,1,exp1_dir1
+3.706,3,2,10,baseline,1,exp1_dir1
+0.196000000000001,3,3,10,baseline,1,exp1_dir1
+-2.894,3,4,10,baseline,1,exp1_dir1
+-2.514,3,5,10,baseline,1,exp1_dir1
+9.216,3,6,10,perturbation,2,exp1_dir1
+10.726,3,7,10,perturbation,2,exp1_dir1
+5.096,3,8,10,perturbation,3,exp1_dir1
+10.756,3,9,10,perturbation,3,exp1_dir1
+8.656,3,10,10,perturbation,3,exp1_dir1
+6.606,3,11,10,perturbation,3,exp1_dir1
+6.316,3,12,10,perturbation,3,exp1_dir1
+3.876,3,13,10,perturbation,4,exp1_dir1
+5.196,3,14,10,perturbation,4,exp1_dir1
+2.946,3,15,10,perturbation,4,exp1_dir1
+-0.564,3,16,10,washout,5,exp1_dir1
+1.636,3,17,10,washout,5,exp1_dir1
+-0.533999999999999,3,18,10,washout,6,exp1_dir1
+1.456,3,19,10,washout,6,exp1_dir1
+2.586,3,20,10,washout,6,exp1_dir1
+2.096,3,21,10,washout,6,exp1_dir1
+-3.17,3,1,11,baseline,1,exp1_dir1
+1.97,3,2,11,baseline,1,exp1_dir1
+1.38,3,3,11,baseline,1,exp1_dir1
+1.36,3,4,11,baseline,1,exp1_dir1
+-1.54,3,5,11,baseline,1,exp1_dir1
+1.77,3,6,11,perturbation,2,exp1_dir1
+3.46,3,7,11,perturbation,2,exp1_dir1
+6.51,3,8,11,perturbation,3,exp1_dir1
+6.12,3,9,11,perturbation,3,exp1_dir1
+3.68,3,10,11,perturbation,3,exp1_dir1
+-1.4,3,11,11,perturbation,3,exp1_dir1
+3.07,3,12,11,perturbation,3,exp1_dir1
+0.799999999999999,3,13,11,perturbation,4,exp1_dir1
+4.82,3,14,11,perturbation,4,exp1_dir1
+4.14,3,15,11,perturbation,4,exp1_dir1
+-1.3,3,16,11,washout,5,exp1_dir1
+-2.05,3,17,11,washout,5,exp1_dir1
+0.919999999999999,3,18,11,washout,6,exp1_dir1
+3.14,3,19,11,washout,6,exp1_dir1
+-2.03,3,20,11,washout,6,exp1_dir1
+-1.03,3,21,11,washout,6,exp1_dir1
+0.482,3,1,12,baseline,1,exp1_dir1
+0.342,3,2,12,baseline,1,exp1_dir1
+-3.318,3,3,12,baseline,1,exp1_dir1
+2.062,3,4,12,baseline,1,exp1_dir1
+0.432,3,5,12,baseline,1,exp1_dir1
+4.502,3,6,12,perturbation,2,exp1_dir1
+-0.838,3,7,12,perturbation,2,exp1_dir1
+-1.558,3,8,12,perturbation,3,exp1_dir1
+-1.208,3,9,12,perturbation,3,exp1_dir1
+-1.688,3,10,12,perturbation,3,exp1_dir1
+0.282,3,11,12,perturbation,3,exp1_dir1
+0.292,3,12,12,perturbation,3,exp1_dir1
+3.402,3,13,12,perturbation,4,exp1_dir1
+3.012,3,14,12,perturbation,4,exp1_dir1
+-0.568,3,15,12,perturbation,4,exp1_dir1
+-2.078,3,16,12,washout,5,exp1_dir1
+-0.00800000000000001,3,17,12,washout,5,exp1_dir1
+-0.698,3,18,12,washout,6,exp1_dir1
+-1.438,3,19,12,washout,6,exp1_dir1
+-1.898,3,20,12,washout,6,exp1_dir1
+-0.958,3,21,12,washout,6,exp1_dir1
+-1.7,3,1,13,baseline,1,exp1_dir1
+-2.6,3,2,13,baseline,1,exp1_dir1
+-5.36,3,3,13,baseline,1,exp1_dir1
+3.32,3,4,13,baseline,1,exp1_dir1
+6.34,3,5,13,baseline,1,exp1_dir1
+6.35,3,6,13,perturbation,2,exp1_dir1
+5.1,3,7,13,perturbation,2,exp1_dir1
+7.97,3,8,13,perturbation,3,exp1_dir1
+4.88,3,9,13,perturbation,3,exp1_dir1
+3.32,3,10,13,perturbation,3,exp1_dir1
+8.41,3,11,13,perturbation,3,exp1_dir1
+10.29,3,12,13,perturbation,3,exp1_dir1
+4.98,3,13,13,perturbation,4,exp1_dir1
+5.86,3,14,13,perturbation,4,exp1_dir1
+4.42,3,15,13,perturbation,4,exp1_dir1
+0.399999999999999,3,16,13,washout,5,exp1_dir1
+2.61,3,17,13,washout,5,exp1_dir1
+6.03,3,18,13,washout,6,exp1_dir1
+4.22,3,19,13,washout,6,exp1_dir1
+2.67,3,20,13,washout,6,exp1_dir1
+2.08,3,21,13,washout,6,exp1_dir1
+2.146,3,1,14,baseline,1,exp1_dir1
+-0.474,3,2,14,baseline,1,exp1_dir1
+-3.574,3,3,14,baseline,1,exp1_dir1
+-0.224,3,4,14,baseline,1,exp1_dir1
+2.126,3,5,14,baseline,1,exp1_dir1
+4.826,3,6,14,perturbation,2,exp1_dir1
+2.646,3,7,14,perturbation,2,exp1_dir1
+1.946,3,8,14,perturbation,3,exp1_dir1
+2.026,3,9,14,perturbation,3,exp1_dir1
+2.626,3,10,14,perturbation,3,exp1_dir1
+1.226,3,11,14,perturbation,3,exp1_dir1
+0.846000000000001,3,12,14,perturbation,3,exp1_dir1
+-1.504,3,13,14,perturbation,4,exp1_dir1
+1.226,3,14,14,perturbation,4,exp1_dir1
+3.376,3,15,14,perturbation,4,exp1_dir1
+-1.924,3,16,14,washout,5,exp1_dir1
+0.276,3,17,14,washout,5,exp1_dir1
+-0.754,3,18,14,washout,6,exp1_dir1
+-0.33,3,1,15,baseline,1,exp1_dir1
+-3.9,3,2,15,baseline,1,exp1_dir1
+2.99,3,3,15,baseline,1,exp1_dir1
+-0.68,3,4,15,baseline,1,exp1_dir1
+1.92,3,5,15,baseline,1,exp1_dir1
+3.92,3,6,15,perturbation,2,exp1_dir1
+6.84,3,7,15,perturbation,2,exp1_dir1
+2.72,3,8,15,perturbation,3,exp1_dir1
+1.97,3,9,15,perturbation,3,exp1_dir1
+2.57,3,10,15,perturbation,3,exp1_dir1
+4.79,3,11,15,perturbation,3,exp1_dir1
+5.74,3,12,15,perturbation,3,exp1_dir1
+0.6,3,13,15,perturbation,4,exp1_dir1
+3.67,3,14,15,perturbation,4,exp1_dir1
+2.62,3,15,15,perturbation,4,exp1_dir1
+-0.98,3,16,15,washout,5,exp1_dir1
+-1.08,3,17,15,washout,5,exp1_dir1
+-1.78,3,18,15,washout,6,exp1_dir1
+-1.28,3,19,15,washout,6,exp1_dir1
+0.02,3,20,15,washout,6,exp1_dir1
+-0.53,3,21,15,washout,6,exp1_dir1
+-0.218,3,1,16,baseline,1,exp1_dir1
+3.502,3,2,16,baseline,1,exp1_dir1
+-1.728,3,3,16,baseline,1,exp1_dir1
+2.562,3,4,16,baseline,1,exp1_dir1
+-4.118,3,5,16,baseline,1,exp1_dir1
+0.982,3,6,16,perturbation,2,exp1_dir1
+3.022,3,7,16,perturbation,2,exp1_dir1
+3.092,3,8,16,perturbation,3,exp1_dir1
+2.952,3,9,16,perturbation,3,exp1_dir1
+4.212,3,10,16,perturbation,3,exp1_dir1
+3.672,3,11,16,perturbation,3,exp1_dir1
+1.272,3,12,16,perturbation,3,exp1_dir1
+3.532,3,13,16,perturbation,4,exp1_dir1
+1.512,3,14,16,perturbation,4,exp1_dir1
+2.562,3,15,16,perturbation,4,exp1_dir1
+0.122,3,16,16,washout,5,exp1_dir1
+-1.798,3,17,16,washout,5,exp1_dir1
+-0.828,3,18,16,washout,6,exp1_dir1
+-0.338,3,19,16,washout,6,exp1_dir1
+-2.048,3,20,16,washout,6,exp1_dir1
+-1.018,3,21,16,washout,6,exp1_dir1
+-0.032894737,4,1,1,baseline,1,exp1_dir2
+0.789473684,4,2,1,baseline,1,exp1_dir2
+-1.513157895,4,3,1,baseline,1,exp1_dir2
+0.625,4,4,1,baseline,1,exp1_dir2
+0.131578947,4,5,1,baseline,1,exp1_dir2
+6.776315789,4,6,1,perturbation,2,exp1_dir2
+2.203947368,4,7,1,perturbation,2,exp1_dir2
+-0.953947368,4,8,1,perturbation,3,exp1_dir2
+-5.361842105,4,9,1,perturbation,3,exp1_dir2
+5.625,4,10,1,perturbation,3,exp1_dir2
+0.164473684,4,11,1,perturbation,3,exp1_dir2
+-0.657894737,4,12,1,perturbation,4,exp1_dir2
+-1.710526316,4,13,1,perturbation,4,exp1_dir2
+0.361842105,4,14,1,perturbation,4,exp1_dir2
+-5.427631579,4,15,1,washout,5,exp1_dir2
+-7.138157895,4,16,1,washout,5,exp1_dir2
+-0.921052632,4,17,1,washout,6,exp1_dir2
+-6.809210526,4,18,1,washout,6,exp1_dir2
+-0.427631579,4,19,1,washout,6,exp1_dir2
+-1.282894737,4,20,1,washout,6,exp1_dir2
+-0.962732919,4,1,2,baseline,1,exp1_dir2
+1.925465839,4,2,2,baseline,1,exp1_dir2
+0.310559006,4,3,2,baseline,1,exp1_dir2
+-2.670807453,4,4,2,baseline,1,exp1_dir2
+1.397515528,4,5,2,baseline,1,exp1_dir2
+5.559006211,4,6,2,perturbation,2,exp1_dir2
+7.48447205,4,7,2,perturbation,2,exp1_dir2
+6.552795031,4,8,2,perturbation,3,exp1_dir2
+4.037267081,4,9,2,perturbation,3,exp1_dir2
+3.97515528,4,10,2,perturbation,3,exp1_dir2
+0.745341615,4,11,2,perturbation,3,exp1_dir2
+7.826086957,4,12,2,perturbation,3,exp1_dir2
+0.776397516,4,13,2,perturbation,4,exp1_dir2
+0.714285714,4,14,2,perturbation,4,exp1_dir2
+2.173913043,4,15,2,perturbation,4,exp1_dir2
+-0.248447205,4,16,2,washout,5,exp1_dir2
+-2.080745342,4,17,2,washout,5,exp1_dir2
+2.267080745,4,18,2,washout,6,exp1_dir2
+1.894409938,4,19,2,washout,6,exp1_dir2
+2.329192547,4,20,2,washout,6,exp1_dir2
+2.329192547,4,21,2,washout,6,exp1_dir2
+-0.148148148,5,1,1,baseline,1,exp1_dir2
+-1.290123457,5,2,1,baseline,1,exp1_dir2
+-0.333333333,5,3,1,baseline,1,exp1_dir2
+2.290123457,5,4,1,baseline,1,exp1_dir2
+-0.518518519,5,5,1,baseline,1,exp1_dir2
+8.185185185,5,6,1,perturbation,2,exp1_dir2
+4.574074074,5,7,1,perturbation,2,exp1_dir2
+0.222222222,5,8,1,perturbation,3,exp1_dir2
+-2.432098765,5,9,1,perturbation,3,exp1_dir2
+1.796296296,5,10,1,perturbation,3,exp1_dir2
+0.160493827,5,11,1,perturbation,3,exp1_dir2
+5.87037037,5,12,1,perturbation,3,exp1_dir2
+7.197530864,5,13,1,perturbation,4,exp1_dir2
+0.191358025,5,14,1,perturbation,4,exp1_dir2
+0.561728395,5,15,1,perturbation,4,exp1_dir2
+-2.277777778,5,16,1,washout,5,exp1_dir2
+1.858024691,5,17,1,washout,5,exp1_dir2
+-1.413580247,5,18,1,washout,6,exp1_dir2
+0.191358025,5,19,1,washout,6,exp1_dir2
+1.672839506,5,20,1,washout,6,exp1_dir2
+1.910588235,6,1,1,baseline,1,exp1_dir2
+-12.84235294,6,2,1,baseline,1,exp1_dir2
+1.369411765,6,3,1,baseline,1,exp1_dir2
+5.792941176,6,4,1,baseline,1,exp1_dir2
+3.769411765,6,5,1,baseline,1,exp1_dir2
+11.48705882,6,6,1,perturbation,2,exp1_dir2
+13.18117647,6,7,1,perturbation,2,exp1_dir2
+5.957647059,6,8,1,perturbation,3,exp1_dir2
+3.722352941,6,9,1,perturbation,3,exp1_dir2
+-10.88941176,6,10,1,perturbation,3,exp1_dir2
+4.428235294,6,11,1,perturbation,4,exp1_dir2
+-6.089411765,6,12,1,perturbation,4,exp1_dir2
+-11.31294118,6,13,1,perturbation,4,exp1_dir2
+-5.430588235,6,14,1,washout,5,exp1_dir2
+-6.442352941,6,15,1,washout,5,exp1_dir2
+1.534117647,6,16,1,washout,6,exp1_dir2
+-3.595294118,6,17,1,washout,6,exp1_dir2
+1.101234568,6,1,2,baseline,1,exp1_dir2
+0.088888889,6,2,2,baseline,1,exp1_dir2
+1.619753086,6,3,2,baseline,1,exp1_dir2
+-0.281481481,6,4,2,baseline,1,exp1_dir2
+-2.528395062,6,5,2,baseline,1,exp1_dir2
+5.125925926,6,6,2,perturbation,2,exp1_dir2
+-0.750617284,6,7,2,perturbation,2,exp1_dir2
+-7.960493827,6,8,2,perturbation,3,exp1_dir2
+4.187654321,6,9,2,perturbation,3,exp1_dir2
+3.274074074,6,10,2,perturbation,3,exp1_dir2
+-1.29382716,6,11,2,perturbation,3,exp1_dir2
+0.434567901,6,12,2,perturbation,3,exp1_dir2
+1.07654321,6,13,2,perturbation,4,exp1_dir2
+-2.627160494,6,14,2,perturbation,4,exp1_dir2
+0.928395062,6,15,2,perturbation,4,exp1_dir2
+0.088888889,6,16,2,washout,5,exp1_dir2
+-6.108641975,6,17,2,washout,5,exp1_dir2
+-2.8,6,18,2,washout,6,exp1_dir2
+-4.232098765,6,19,2,washout,6,exp1_dir2
+-0.651851852,6,20,2,washout,6,exp1_dir2
+-3.590123457,6,21,2,washout,6,exp1_dir2
+0.390243902,6,1,3,baseline,1,exp1_dir2
+1.902439024,6,2,3,baseline,1,exp1_dir2
+0.024390244,6,3,3,baseline,1,exp1_dir2
+-2.195121951,6,4,3,baseline,1,exp1_dir2
+-0.12195122,6,5,3,baseline,1,exp1_dir2
+2.902439024,6,6,3,perturbation,2,exp1_dir2
+5.365853659,6,7,3,perturbation,2,exp1_dir2
+-0.43902439,6,8,3,perturbation,3,exp1_dir2
+-7.56097561,6,9,3,perturbation,3,exp1_dir2
+4.43902439,6,10,3,perturbation,3,exp1_dir2
+3.536585366,6,11,3,perturbation,3,exp1_dir2
+-0.975609756,6,12,3,perturbation,3,exp1_dir2
+0.731707317,6,13,3,perturbation,4,exp1_dir2
+1.365853659,6,14,3,perturbation,4,exp1_dir2
+-2.292682927,6,15,3,perturbation,4,exp1_dir2
+-5.731707317,6,16,3,washout,5,exp1_dir2
+-2.463414634,6,17,3,washout,5,exp1_dir2
+-3.87804878,6,18,3,washout,6,exp1_dir2
+-0.341463415,6,19,3,washout,6,exp1_dir2
+-3.243902439,6,20,3,washout,6,exp1_dir2
+-1.285024155,6,1,4,baseline,1,exp1_dir2
+3.062801932,6,2,4,baseline,1,exp1_dir2
+0.502415459,6,3,4,baseline,1,exp1_dir2
+-2.492753623,6,4,4,baseline,1,exp1_dir2
+0.212560386,6,5,4,baseline,1,exp1_dir2
+4.753623188,6,6,4,perturbation,2,exp1_dir2
+-0.512077295,6,7,4,perturbation,2,exp1_dir2
+0.429951691,6,8,4,perturbation,3,exp1_dir2
+-3.990338164,6,9,4,perturbation,3,exp1_dir2
+1.371980676,6,10,4,perturbation,3,exp1_dir2
+2.966183575,6,11,4,perturbation,3,exp1_dir2
+-2.951690821,6,12,4,perturbation,3,exp1_dir2
+0.043478261,6,13,4,perturbation,4,exp1_dir2
+-4.594202899,6,14,4,perturbation,4,exp1_dir2
+4.246376812,6,15,4,perturbation,4,exp1_dir2
+-4.859903382,6,16,4,washout,5,exp1_dir2
+0.285024155,6,17,4,washout,5,exp1_dir2
+2.314009662,6,18,4,washout,6,exp1_dir2
+0.115942029,6,19,4,washout,6,exp1_dir2
+-1.019323671,6,20,4,washout,6,exp1_dir2
+-4.618357488,6,21,4,washout,6,exp1_dir2
+0.275362319,6,1,5,baseline,1,exp1_dir2
+-0.207729469,6,2,5,baseline,1,exp1_dir2
+0.444444444,6,3,5,baseline,1,exp1_dir2
+-2.405797101,6,4,5,baseline,1,exp1_dir2
+1.893719807,6,5,5,baseline,1,exp1_dir2
+4.985507246,6,6,5,perturbation,2,exp1_dir2
+0.299516908,6,7,5,perturbation,2,exp1_dir2
+-0.062801932,6,8,5,perturbation,3,exp1_dir2
+-2.405797101,6,9,5,perturbation,3,exp1_dir2
+-0.062801932,6,10,5,perturbation,3,exp1_dir2
+-2.550724638,6,11,5,perturbation,3,exp1_dir2
+3.753623188,6,12,5,perturbation,3,exp1_dir2
+-3.082125604,6,13,5,perturbation,4,exp1_dir2
+-1.850241546,6,14,5,perturbation,4,exp1_dir2
+-2.816425121,6,15,5,perturbation,4,exp1_dir2
+-2.381642512,6,16,5,washout,5,exp1_dir2
+-0.231884058,6,17,5,washout,5,exp1_dir2
+0.685990338,6,18,5,washout,6,exp1_dir2
+-1.246376812,6,19,5,washout,6,exp1_dir2
+-5.642512077,6,20,5,washout,6,exp1_dir2
+0.892682927,6,1,6,baseline,1,exp1_dir2
+-2.034146341,6,2,6,baseline,1,exp1_dir2
+-1.082926829,6,3,6,baseline,1,exp1_dir2
+1.72195122,6,4,6,baseline,1,exp1_dir2
+0.502439024,6,5,6,baseline,1,exp1_dir2
+4.917073171,6,6,6,perturbation,2,exp1_dir2
+-0.936585366,6,7,6,perturbation,2,exp1_dir2
+0.502439024,6,8,6,perturbation,3,exp1_dir2
+-1.180487805,6,9,6,perturbation,3,exp1_dir2
+4.331707317,6,10,6,perturbation,3,exp1_dir2
+-4.204878049,6,11,6,perturbation,3,exp1_dir2
+0.941463415,6,12,6,perturbation,3,exp1_dir2
+1.307317073,6,13,6,perturbation,4,exp1_dir2
+-0.619512195,6,14,6,perturbation,4,exp1_dir2
+-1.156097561,6,15,6,perturbation,4,exp1_dir2
+-1.034146341,6,16,6,washout,5,exp1_dir2
+0.307317073,6,17,6,washout,5,exp1_dir2
+-2.229268293,6,18,6,washout,6,exp1_dir2
+3.16097561,6,19,6,washout,6,exp1_dir2
+1.697560976,6,20,6,washout,6,exp1_dir2
+2.47804878,6,21,6,washout,6,exp1_dir2
+0.03902439,6,1,7,baseline,1,exp1_dir2
+-0.473170732,6,2,7,baseline,1,exp1_dir2
+-1.229268293,6,3,7,baseline,1,exp1_dir2
+0.965853659,6,4,7,baseline,1,exp1_dir2
+0.697560976,6,5,7,baseline,1,exp1_dir2
+4.795121951,6,6,7,perturbation,2,exp1_dir2
+-0.790243902,6,7,7,perturbation,2,exp1_dir2
+3.331707317,6,8,7,perturbation,3,exp1_dir2
+-0.546341463,6,9,7,perturbation,3,exp1_dir2
+-1.887804878,6,10,7,perturbation,3,exp1_dir2
+-2.765853659,6,11,7,perturbation,3,exp1_dir2
+1.941463415,6,12,7,perturbation,3,exp1_dir2
+1.746341463,6,13,7,perturbation,4,exp1_dir2
+-2.27804878,6,14,7,perturbation,4,exp1_dir2
+-2.83902439,6,15,7,perturbation,4,exp1_dir2
+0.234146341,6,16,7,washout,5,exp1_dir2
+0.795121951,6,17,7,washout,5,exp1_dir2
+2.356097561,6,18,7,washout,6,exp1_dir2
+3.575609756,6,19,7,washout,6,exp1_dir2
+1.209756098,6,20,7,washout,6,exp1_dir2
+-0.663636364,7,1,1,baseline,1,exp1_dir2
+-0.572727273,7,2,1,baseline,1,exp1_dir2
+-0.481818182,7,3,1,baseline,1,exp1_dir2
+1.518181818,7,4,1,baseline,1,exp1_dir2
+0.2,7,5,1,baseline,1,exp1_dir2
+6.927272727,7,6,1,perturbation,2,exp1_dir2
+5.654545455,7,7,1,perturbation,2,exp1_dir2
+2.518181818,7,8,1,perturbation,3,exp1_dir2
+-2.709090909,7,9,1,perturbation,3,exp1_dir2
+-3.890909091,7,10,1,perturbation,3,exp1_dir2
+-2.345454545,7,11,1,perturbation,4,exp1_dir2
+0.290909091,7,12,1,perturbation,4,exp1_dir2
+2.336363636,7,13,1,perturbation,4,exp1_dir2
+-7.163636364,7,14,1,washout,5,exp1_dir2
+-4.663636364,7,15,1,washout,5,exp1_dir2
+1.018181818,7,16,1,washout,6,exp1_dir2
+-3.572727273,7,17,1,washout,6,exp1_dir2
+-3.254545455,7,18,1,washout,6,exp1_dir2
+1.266666667,7,1,2,baseline,1,exp1_dir2
+1.219047619,7,2,2,baseline,1,exp1_dir2
+-0.352380952,7,3,2,baseline,1,exp1_dir2
+-0.733333333,7,4,2,baseline,1,exp1_dir2
+-1.4,7,5,2,baseline,1,exp1_dir2
+6.266666667,7,6,2,perturbation,2,exp1_dir2
+4.6,7,7,2,perturbation,2,exp1_dir2
+-1.447619048,7,8,2,perturbation,3,exp1_dir2
+-5.20952381,7,9,2,perturbation,3,exp1_dir2
+-0.971428571,7,10,2,perturbation,3,exp1_dir2
+-5.257142857,7,11,2,perturbation,3,exp1_dir2
+-1.780952381,7,12,2,perturbation,3,exp1_dir2
+0.6,7,13,2,perturbation,4,exp1_dir2
+3.885714286,7,14,2,perturbation,4,exp1_dir2
+0.552380952,7,15,2,perturbation,4,exp1_dir2
+-7.447619048,7,16,2,washout,5,exp1_dir2
+-5.304761905,7,17,2,washout,5,exp1_dir2
+0.457142857,7,18,2,washout,6,exp1_dir2
+-1.4,7,19,2,washout,6,exp1_dir2
+0.266666667,7,20,2,washout,6,exp1_dir2
+-0.536363636,7,1,3,baseline,1,exp1_dir2
+0.236363636,7,2,3,baseline,1,exp1_dir2
+1.1,7,3,3,baseline,1,exp1_dir2
+-0.081818182,7,4,3,baseline,1,exp1_dir2
+-0.718181818,7,5,3,baseline,1,exp1_dir2
+3.554545455,7,6,3,perturbation,2,exp1_dir2
+0.463636364,7,7,3,perturbation,2,exp1_dir2
+-0.990909091,7,8,3,perturbation,3,exp1_dir2
+-2.627272727,7,9,3,perturbation,3,exp1_dir2
+-2.445454545,7,10,3,perturbation,3,exp1_dir2
+-8.581818182,7,11,3,perturbation,3,exp1_dir2
+-0.172727273,7,12,3,perturbation,3,exp1_dir2
+3.190909091,7,13,3,perturbation,4,exp1_dir2
+1.190909091,7,14,3,perturbation,4,exp1_dir2
+-3.218181818,7,15,3,perturbation,4,exp1_dir2
+-7.945454545,7,16,3,washout,5,exp1_dir2
+-4.990909091,7,17,3,washout,5,exp1_dir2
+-8.036363636,7,18,3,washout,6,exp1_dir2
+0.327272727,7,19,3,washout,6,exp1_dir2
+5.054545455,7,20,3,washout,6,exp1_dir2
+2.981818182,7,1,4,baseline,1,exp1_dir2
+-7.427272727,7,2,4,baseline,1,exp1_dir2
+3.754545455,7,3,4,baseline,1,exp1_dir2
+-1.245454545,7,4,4,baseline,1,exp1_dir2
+1.936363636,7,5,4,baseline,1,exp1_dir2
+8.618181818,7,6,4,perturbation,2,exp1_dir2
+-5.427272727,7,7,4,perturbation,2,exp1_dir2
+0.072727273,7,8,4,perturbation,3,exp1_dir2
+2.890909091,7,9,4,perturbation,3,exp1_dir2
+0.254545455,7,10,4,perturbation,3,exp1_dir2
+0.163636364,7,11,4,perturbation,3,exp1_dir2
+-0.018181818,7,12,4,perturbation,4,exp1_dir2
+-1.381818182,7,13,4,perturbation,4,exp1_dir2
+2.8,7,14,4,perturbation,4,exp1_dir2
+-11.56363636,7,15,4,washout,5,exp1_dir2
+-9.245454545,7,16,4,washout,5,exp1_dir2
+-0.018181818,7,17,4,washout,6,exp1_dir2
+-6.972727273,7,18,4,washout,6,exp1_dir2
+-0.472727273,7,19,4,washout,6,exp1_dir2
+1.59047619,7,1,5,baseline,1,exp1_dir2
+1.780952381,7,2,5,baseline,1,exp1_dir2
+1.923809524,7,3,5,baseline,1,exp1_dir2
+-4.885714286,7,4,5,baseline,1,exp1_dir2
+-0.40952381,7,5,5,baseline,1,exp1_dir2
+6.114285714,7,6,5,perturbation,2,exp1_dir2
+3.59047619,7,7,5,perturbation,2,exp1_dir2
+-0.171428571,7,8,5,perturbation,3,exp1_dir2
+4.4,7,9,5,perturbation,3,exp1_dir2
+1.20952381,7,10,5,perturbation,3,exp1_dir2
+3.638095238,7,11,5,perturbation,3,exp1_dir2
+2.4,7,12,5,perturbation,4,exp1_dir2
+3.019047619,7,13,5,perturbation,4,exp1_dir2
+3.971428571,7,14,5,perturbation,4,exp1_dir2
+-2.980952381,7,15,5,washout,5,exp1_dir2
+1.638095238,7,16,5,washout,5,exp1_dir2
+4.352380952,7,17,5,washout,6,exp1_dir2
+-0.6,7,18,5,washout,6,exp1_dir2
+0.828571429,7,19,5,washout,6,exp1_dir2
+-5.654545455,7,1,6,baseline,1,exp1_dir2
+1.845454545,7,2,6,baseline,1,exp1_dir2
+2.072727273,7,3,6,baseline,1,exp1_dir2
+1.345454545,7,4,6,baseline,1,exp1_dir2
+0.390909091,7,5,6,baseline,1,exp1_dir2
+12.02727273,7,6,6,perturbation,2,exp1_dir2
+3.209090909,7,7,6,perturbation,2,exp1_dir2
+0.209090909,7,8,6,perturbation,3,exp1_dir2
+1.981818182,7,9,6,perturbation,3,exp1_dir2
+6.027272727,7,10,6,perturbation,3,exp1_dir2
+2.618181818,7,11,6,perturbation,3,exp1_dir2
+2.3,7,12,6,perturbation,3,exp1_dir2
+1.118181818,7,13,6,perturbation,4,exp1_dir2
+1.981818182,7,14,6,perturbation,4,exp1_dir2
+1.8,7,15,6,perturbation,4,exp1_dir2
+-5.7,7,16,6,washout,5,exp1_dir2
+0.618181818,7,17,6,washout,5,exp1_dir2
+0.3,7,18,6,washout,6,exp1_dir2
+-2.563636364,7,19,6,washout,6,exp1_dir2
+3.663636364,7,20,6,washout,6,exp1_dir2
+1.981818182,7,21,6,washout,6,exp1_dir2
+0.857142857,7,1,7,baseline,1,exp1_dir2
+-0.619047619,7,2,7,baseline,1,exp1_dir2
+-0.571428571,7,3,7,baseline,1,exp1_dir2
+0.428571429,7,4,7,baseline,1,exp1_dir2
+-0.095238095,7,5,7,baseline,1,exp1_dir2
+5.380952381,7,6,7,perturbation,2,exp1_dir2
+4.095238095,7,7,7,perturbation,2,exp1_dir2
+3.476190476,7,8,7,perturbation,3,exp1_dir2
+3.380952381,7,9,7,perturbation,3,exp1_dir2
+-4.714285714,7,10,7,perturbation,3,exp1_dir2
+-2.761904762,7,11,7,perturbation,3,exp1_dir2
+2.78e-17,7,12,7,perturbation,3,exp1_dir2
+3.095238095,7,13,7,perturbation,4,exp1_dir2
+2.619047619,7,14,7,perturbation,4,exp1_dir2
+0.952380952,7,15,7,perturbation,4,exp1_dir2
+-5.714285714,7,16,7,washout,5,exp1_dir2
+0.333333333,7,17,7,washout,5,exp1_dir2
+6.761904762,7,18,7,washout,6,exp1_dir2
+-1.714285714,7,19,7,washout,6,exp1_dir2
+-2,7,20,7,washout,6,exp1_dir2
+7.574534884,3,1,1,baseline,1,exp2_reverse
+5.454534884,3,2,1,baseline,1,exp2_reverse
+7.254534884,3,3,1,baseline,1,exp2_reverse
+6.274534884,3,4,1,baseline,1,exp2_reverse
+5.904534884,3,5,1,baseline,1,exp2_reverse
+0.554534884,3,6,1,baseline,1,exp2_reverse
+9.324534884,3,7,1,perturbation,2,exp2_reverse
+7.224534884,3,8,1,perturbation,2,exp2_reverse
+9.054534884,3,9,1,perturbation,3,exp2_reverse
+7.504534884,3,10,1,perturbation,3,exp2_reverse
+6.104534884,3,11,1,perturbation,3,exp2_reverse
+9.704534884,3,12,1,perturbation,3,exp2_reverse
+4.624534884,3,13,1,perturbation,3,exp2_reverse
+4.424534884,3,14,1,perturbation,3,exp2_reverse
+3.754534884,3,15,1,perturbation,4,exp2_reverse
+5.074534884,3,16,1,perturbation,4,exp2_reverse
+-19.95453488,3,17,1,reverse perturbation,5,exp2_reverse
+-20.57453488,3,18,1,reverse perturbation,5,exp2_reverse
+-18.12453488,3,19,1,reverse perturbation,6,exp2_reverse
+-14.32453488,3,20,1,reverse perturbation,6,exp2_reverse
+-21.37453488,3,21,1,reverse perturbation,6,exp2_reverse
+-12.17453488,3,22,1,reverse perturbation,6,exp2_reverse
+-11.45453488,3,23,1,reverse perturbation,6,exp2_reverse
+-5.944534884,3,24,1,reverse perturbation,6,exp2_reverse
+-12.82453488,3,25,1,reverse perturbation,6,exp2_reverse
+-12.07453488,3,26,1,reverse perturbation,6,exp2_reverse
+-14.10453488,3,27,1,reverse perturbation,6,exp2_reverse
+-16.82453488,3,28,1,reverse perturbation,6,exp2_reverse
+-16.70453488,3,29,1,reverse perturbation,6,exp2_reverse
+-15.30453488,3,30,1,reverse perturbation,6,exp2_reverse
+-10.52453488,3,31,1,reverse perturbation,7,exp2_reverse
+-10.12453488,3,32,1,reverse perturbation,7,exp2_reverse
+3.284534884,3,33,1,washout,8,exp2_reverse
+-2.715465116,3,34,1,washout,8,exp2_reverse
+-0.215465116,3,35,1,washout,9,exp2_reverse
+4.954534884,3,36,1,washout,9,exp2_reverse
+1.834534884,3,37,1,washout,9,exp2_reverse
+2.554534884,3,1,2,baseline,1,exp2_reverse
+2.934534884,3,2,2,baseline,1,exp2_reverse
+1.934534884,3,3,2,baseline,1,exp2_reverse
+1.984534884,3,4,2,baseline,1,exp2_reverse
+4.474534884,3,5,2,baseline,1,exp2_reverse
+5.684534884,3,6,2,perturbation,2,exp2_reverse
+6.054534884,3,7,2,perturbation,2,exp2_reverse
+2.204534884,3,8,2,perturbation,3,exp2_reverse
+6.804534884,3,9,2,perturbation,3,exp2_reverse
+5.964534884,3,10,2,perturbation,3,exp2_reverse
+7.174534884,3,11,2,perturbation,3,exp2_reverse
+1.984534884,3,12,2,perturbation,3,exp2_reverse
+9.304534884,3,13,2,perturbation,3,exp2_reverse
+2.104534884,3,14,2,perturbation,4,exp2_reverse
+0.784534884,3,15,2,perturbation,4,exp2_reverse
+-12.50453488,3,16,2,reverse perturbation,5,exp2_reverse
+-12.20453488,3,17,2,reverse perturbation,5,exp2_reverse
+-15.97453488,3,18,2,reverse perturbation,6,exp2_reverse
+-11.27453488,3,19,2,reverse perturbation,6,exp2_reverse
+-13.01453488,3,20,2,reverse perturbation,6,exp2_reverse
+-12.80453488,3,21,2,reverse perturbation,6,exp2_reverse
+-16.46453488,3,22,2,reverse perturbation,6,exp2_reverse
+-9.774534884,3,23,2,reverse perturbation,6,exp2_reverse
+-12.17453488,3,24,2,reverse perturbation,6,exp2_reverse
+-11.55453488,3,25,2,reverse perturbation,6,exp2_reverse
+-5.854534884,3,26,2,reverse perturbation,6,exp2_reverse
+-13.92453488,3,27,2,reverse perturbation,6,exp2_reverse
+-10.67453488,3,28,2,reverse perturbation,6,exp2_reverse
+-12.32453488,3,29,2,reverse perturbation,6,exp2_reverse
+-12.77453488,3,30,2,reverse perturbation,7,exp2_reverse
+-8.174534884,3,31,2,reverse perturbation,7,exp2_reverse
+0.604534884,3,32,2,washout,8,exp2_reverse
+0.394534884,3,33,2,washout,8,exp2_reverse
+-4.665465116,3,34,2,washout,9,exp2_reverse
+2.534534884,3,35,2,washout,9,exp2_reverse
+1.154534884,3,36,2,washout,9,exp2_reverse
+-8.545465116,3,1,3,baseline,1,exp2_reverse
+-2.515465116,3,2,3,baseline,1,exp2_reverse
+-6.245465116,3,3,3,baseline,1,exp2_reverse
+-1.465465116,3,4,3,baseline,1,exp2_reverse
+3.454534884,3,5,3,baseline,1,exp2_reverse
+0.234534884,3,6,3,baseline,1,exp2_reverse
+5.804534884,3,7,3,perturbation,2,exp2_reverse
+3.484534884,3,8,3,perturbation,2,exp2_reverse
+2.234534884,3,9,3,perturbation,3,exp2_reverse
+1.084534884,3,10,3,perturbation,3,exp2_reverse
+5.654534884,3,11,3,perturbation,3,exp2_reverse
+6.074534884,3,12,3,perturbation,3,exp2_reverse
+1.284534884,3,13,3,perturbation,3,exp2_reverse
+2.084534884,3,14,3,perturbation,3,exp2_reverse
+5.054534884,3,15,3,perturbation,4,exp2_reverse
+3.104534884,3,16,3,perturbation,4,exp2_reverse
+-15.35453488,3,17,3,reverse perturbation,5,exp2_reverse
+-14.67453488,3,18,3,reverse perturbation,5,exp2_reverse
+-17.20453488,3,19,3,reverse perturbation,6,exp2_reverse
+-7.354534884,3,20,3,reverse perturbation,6,exp2_reverse
+-9.804534884,3,21,3,reverse perturbation,6,exp2_reverse
+-9.004534884,3,22,3,reverse perturbation,6,exp2_reverse
+-11.45453488,3,23,3,reverse perturbation,6,exp2_reverse
+-8.074534884,3,24,3,reverse perturbation,6,exp2_reverse
+-8.924534884,3,25,3,reverse perturbation,6,exp2_reverse
+-9.774534884,3,26,3,reverse perturbation,6,exp2_reverse
+-7.974534884,3,27,3,reverse perturbation,6,exp2_reverse
+-9.224534884,3,28,3,reverse perturbation,6,exp2_reverse
+-5.004534884,3,29,3,reverse perturbation,7,exp2_reverse
+-5.624534884,3,30,3,reverse perturbation,7,exp2_reverse
+6.054534884,3,31,3,washout,8,exp2_reverse
+2.054534884,3,32,3,washout,8,exp2_reverse
+2.184534884,3,33,3,washout,9,exp2_reverse
+5.224534884,3,34,3,washout,9,exp2_reverse
+3.334534884,3,35,3,washout,9,exp2_reverse
+2.854534884,3,36,3,washout,9,exp2_reverse
+5.204534884,3,1,4,baseline,1,exp2_reverse
+1.434534884,3,2,4,baseline,1,exp2_reverse
+3.704534884,3,3,4,baseline,1,exp2_reverse
+3.334534884,3,4,4,baseline,1,exp2_reverse
+7.554534884,3,5,4,baseline,1,exp2_reverse
+4.954534884,3,6,4,baseline,1,exp2_reverse
+4.964534884,3,7,4,perturbation,2,exp2_reverse
+4.274534884,3,8,4,perturbation,2,exp2_reverse
+7.604534884,3,9,4,perturbation,3,exp2_reverse
+5.824534884,3,10,4,perturbation,3,exp2_reverse
+4.574534884,3,11,4,perturbation,3,exp2_reverse
+0.534534884,3,12,4,perturbation,3,exp2_reverse
+4.474534884,3,13,4,perturbation,3,exp2_reverse
+4.124534884,3,14,4,perturbation,3,exp2_reverse
+5.224534884,3,15,4,perturbation,4,exp2_reverse
+4.474534884,3,16,4,perturbation,4,exp2_reverse
+-9.254534884,3,17,4,reverse perturbation,5,exp2_reverse
+-12.07453488,3,18,4,reverse perturbation,5,exp2_reverse
+-16.12453488,3,19,4,reverse perturbation,6,exp2_reverse
+-14.35453488,3,20,4,reverse perturbation,6,exp2_reverse
+-12.20453488,3,21,4,reverse perturbation,6,exp2_reverse
+-14.72453488,3,22,4,reverse perturbation,6,exp2_reverse
+-12.00453488,3,23,4,reverse perturbation,6,exp2_reverse
+-15.60453488,3,24,4,reverse perturbation,6,exp2_reverse
+-20.10453488,3,25,4,reverse perturbation,6,exp2_reverse
+-7.304534884,3,26,4,reverse perturbation,6,exp2_reverse
+-14.65453488,3,27,4,reverse perturbation,6,exp2_reverse
+-17.02453488,3,28,4,reverse perturbation,6,exp2_reverse
+-17.25453488,3,29,4,reverse perturbation,6,exp2_reverse
+-14.20453488,3,30,4,reverse perturbation,6,exp2_reverse
+-11.70453488,3,31,4,reverse perturbation,6,exp2_reverse
+-11.42453488,3,32,4,reverse perturbation,7,exp2_reverse
+-7.604534884,3,33,4,reverse perturbation,7,exp2_reverse
+6.704534884,3,34,4,washout,8,exp2_reverse
+-0.045465116,3,35,4,washout,8,exp2_reverse
+-5.015465116,3,36,4,washout,9,exp2_reverse
+2.184534884,3,37,4,washout,9,exp2_reverse
+1.834534884,3,38,4,washout,9,exp2_reverse
+-2.495465116,3,39,4,washout,9,exp2_reverse
+-0.245465116,3,40,4,washout,9,exp2_reverse
+-8.945465116,3,1,5,baseline,1,exp2_reverse
+2.974534884,3,2,5,baseline,1,exp2_reverse
+0.754534884,3,3,5,baseline,1,exp2_reverse
+3.404534884,3,4,5,baseline,1,exp2_reverse
+4.954534884,3,5,5,baseline,1,exp2_reverse
+4.204534884,3,6,5,baseline,1,exp2_reverse
+9.454534884,3,7,5,perturbation,2,exp2_reverse
+9.904534884,3,8,5,perturbation,2,exp2_reverse
+7.124534884,3,9,5,perturbation,3,exp2_reverse
+4.554534884,3,10,5,perturbation,3,exp2_reverse
+8.074534884,3,11,5,perturbation,3,exp2_reverse
+7.154534884,3,12,5,perturbation,3,exp2_reverse
+2.234534884,3,13,5,perturbation,3,exp2_reverse
+4.904534884,3,14,5,perturbation,3,exp2_reverse
+7.324534884,3,15,5,perturbation,4,exp2_reverse
+5.374534884,3,16,5,perturbation,4,exp2_reverse
+-13.57453488,3,17,5,reverse perturbation,5,exp2_reverse
+-20.47453488,3,18,5,reverse perturbation,5,exp2_reverse
+-8.424534884,3,19,5,reverse perturbation,6,exp2_reverse
+-17.85453488,3,20,5,reverse perturbation,6,exp2_reverse
+-18.00453488,3,21,5,reverse perturbation,6,exp2_reverse
+-12.90453488,3,22,5,reverse perturbation,6,exp2_reverse
+-18.00453488,3,23,5,reverse perturbation,6,exp2_reverse
+-22.70453488,3,24,5,reverse perturbation,6,exp2_reverse
+-17.62453488,3,25,5,reverse perturbation,6,exp2_reverse
+-14.22453488,3,26,5,reverse perturbation,6,exp2_reverse
+-12.95453488,3,27,5,reverse perturbation,6,exp2_reverse
+-13.07453488,3,28,5,reverse perturbation,6,exp2_reverse
+-16.32453488,3,29,5,reverse perturbation,6,exp2_reverse
+-11.52453488,3,30,5,reverse perturbation,6,exp2_reverse
+-11.37453488,3,31,5,reverse perturbation,6,exp2_reverse
+-5.154534884,3,32,5,reverse perturbation,6,exp2_reverse
+-5.324534884,3,33,5,reverse perturbation,6,exp2_reverse
+-3.084534884,3,34,5,reverse perturbation,7,exp2_reverse
+-5.604534884,3,35,5,reverse perturbation,7,exp2_reverse
+5.474534884,3,36,5,washout,8,exp2_reverse
+-1.095465116,3,37,5,washout,8,exp2_reverse
+3.334534884,3,38,5,washout,9,exp2_reverse
+-1.845465116,3,39,5,washout,9,exp2_reverse
+4.404534884,3,40,5,washout,9,exp2_reverse
+5.654534884,3,41,5,washout,9,exp2_reverse
+-1.345465116,3,42,5,washout,9,exp2_reverse
+-3.865465116,3,1,6,baseline,1,exp2_reverse
+-3.445465116,3,2,6,baseline,1,exp2_reverse
+-6.195465116,3,3,6,baseline,1,exp2_reverse
+-4.795465116,3,4,6,baseline,1,exp2_reverse
+-2.945465116,3,5,6,baseline,1,exp2_reverse
+-1.065465116,3,6,6,baseline,1,exp2_reverse
+3.054534884,3,7,6,perturbation,2,exp2_reverse
+3.782534884,3,8,6,perturbation,2,exp2_reverse
+-0.745465116,3,9,6,perturbation,3,exp2_reverse
+-1.825465116,3,10,6,perturbation,3,exp2_reverse
+-0.065465116,3,11,6,perturbation,3,exp2_reverse
+0.604534884,3,12,6,perturbation,3,exp2_reverse
+-0.275465116,3,13,6,perturbation,3,exp2_reverse
+1.754534884,3,14,6,perturbation,3,exp2_reverse
+3.604534884,3,15,6,perturbation,4,exp2_reverse
+0.684534884,3,16,6,perturbation,4,exp2_reverse
+-20.87453488,3,17,6,reverse perturbation,5,exp2_reverse
+-14.00453488,3,18,6,reverse perturbation,5,exp2_reverse
+-14.72453488,3,19,6,reverse perturbation,6,exp2_reverse
+-15.85453488,3,20,6,reverse perturbation,6,exp2_reverse
+-15.75453488,3,21,6,reverse perturbation,6,exp2_reverse
+-17.30453488,3,22,6,reverse perturbation,6,exp2_reverse
+-18.45453488,3,23,6,reverse perturbation,6,exp2_reverse
+-15.35453488,3,24,6,reverse perturbation,6,exp2_reverse
+-11.27453488,3,25,6,reverse perturbation,6,exp2_reverse
+-15.42453488,3,26,6,reverse perturbation,6,exp2_reverse
+-11.57453488,3,27,6,reverse perturbation,6,exp2_reverse
+-15.20453488,3,28,6,reverse perturbation,6,exp2_reverse
+-15.52453488,3,29,6,reverse perturbation,6,exp2_reverse
+-13.95453488,3,30,6,reverse perturbation,6,exp2_reverse
+-12.34453488,3,31,6,reverse perturbation,6,exp2_reverse
+-6.624534884,3,32,6,reverse perturbation,7,exp2_reverse
+-5.704534884,3,33,6,reverse perturbation,7,exp2_reverse
+4.804534884,3,34,6,washout,8,exp2_reverse
+-3.645465116,3,35,6,washout,8,exp2_reverse
+-4.695465116,3,36,6,washout,9,exp2_reverse
+1.234534884,3,37,6,washout,9,exp2_reverse
+-6.165465116,3,38,6,washout,9,exp2_reverse
+1.684534884,3,39,6,washout,9,exp2_reverse
+0.854534884,3,40,6,washout,9,exp2_reverse
+-1.575465116,3,1,7,baseline,1,exp2_reverse
+-2.045465116,3,2,7,baseline,1,exp2_reverse
+1.004534884,3,3,7,baseline,1,exp2_reverse
+5.524534884,3,4,7,baseline,1,exp2_reverse
+3.484534884,3,5,7,baseline,1,exp2_reverse
+5.604534884,3,6,7,perturbation,2,exp2_reverse
+6.404534884,3,7,7,perturbation,2,exp2_reverse
+2.134534884,3,8,7,perturbation,3,exp2_reverse
+8.174534884,3,9,7,perturbation,3,exp2_reverse
+7.924534884,3,10,7,perturbation,3,exp2_reverse
+3.154534884,3,11,7,perturbation,3,exp2_reverse
+-0.005465116,3,12,7,perturbation,3,exp2_reverse
+4.324534884,3,13,7,perturbation,3,exp2_reverse
+4.374534884,3,14,7,perturbation,4,exp2_reverse
+7.154534884,3,15,7,perturbation,4,exp2_reverse
+-11.50453488,3,16,7,reverse perturbation,5,exp2_reverse
+-10.95453488,3,17,7,reverse perturbation,5,exp2_reverse
+-7.504534884,3,18,7,reverse perturbation,6,exp2_reverse
+-9.054534884,3,19,7,reverse perturbation,6,exp2_reverse
+-12.55453488,3,20,7,reverse perturbation,6,exp2_reverse
+-7.874534884,3,21,7,reverse perturbation,6,exp2_reverse
+-10.72453488,3,22,7,reverse perturbation,6,exp2_reverse
+-8.854534884,3,23,7,reverse perturbation,6,exp2_reverse
+-8.704534884,3,24,7,reverse perturbation,6,exp2_reverse
+-10.12453488,3,25,7,reverse perturbation,6,exp2_reverse
+-9.604534884,3,26,7,reverse perturbation,6,exp2_reverse
+-10.25453488,3,27,7,reverse perturbation,6,exp2_reverse
+-12.02453488,3,28,7,reverse perturbation,6,exp2_reverse
+-2.954534884,3,29,7,reverse perturbation,7,exp2_reverse
+-7.054534884,3,30,7,reverse perturbation,7,exp2_reverse
+9.104534884,3,31,7,washout,8,exp2_reverse
+-6.645465116,3,32,7,washout,8,exp2_reverse
+-0.495465116,3,33,7,washout,9,exp2_reverse
+1.754534884,3,34,7,washout,9,exp2_reverse
+-0.245465116,3,35,7,washout,9,exp2_reverse
+6.104534884,3,36,7,washout,9,exp2_reverse
+2.154534884,3,37,7,washout,9,exp2_reverse
+-3.345465116,3,1,8,baseline,1,exp2_reverse
+0.854534884,3,2,8,baseline,1,exp2_reverse
+-6.765465116,3,3,8,baseline,1,exp2_reverse
+0.054534884,3,4,8,baseline,1,exp2_reverse
+2.954534884,3,5,8,baseline,1,exp2_reverse
+1.334534884,3,6,8,baseline,1,exp2_reverse
+8.774534884,3,7,8,perturbation,2,exp2_reverse
+1.854534884,3,8,8,perturbation,2,exp2_reverse
+1.984534884,3,9,8,perturbation,3,exp2_reverse
+6.154534884,3,10,8,perturbation,3,exp2_reverse
+0.514534884,3,11,8,perturbation,3,exp2_reverse
+6.904534884,3,12,8,perturbation,3,exp2_reverse
+2.084534884,3,13,8,perturbation,3,exp2_reverse
+5.124534884,3,14,8,perturbation,3,exp2_reverse
+4.404534884,3,15,8,perturbation,4,exp2_reverse
+5.124534884,3,16,8,perturbation,4,exp2_reverse
+-10.90453488,3,17,8,reverse perturbation,5,exp2_reverse
+-10.25453488,3,18,8,reverse perturbation,5,exp2_reverse
+-11.40453488,3,19,8,reverse perturbation,6,exp2_reverse
+-11.85453488,3,20,8,reverse perturbation,6,exp2_reverse
+-10.90453488,3,21,8,reverse perturbation,6,exp2_reverse
+-10.05453488,3,22,8,reverse perturbation,6,exp2_reverse
+-11.70453488,3,23,8,reverse perturbation,6,exp2_reverse
+-7.224534884,3,24,8,reverse perturbation,6,exp2_reverse
+-8.374534884,3,25,8,reverse perturbation,6,exp2_reverse
+-10.20453488,3,26,8,reverse perturbation,6,exp2_reverse
+-7.514534884,3,27,8,reverse perturbation,6,exp2_reverse
+-9.354534884,3,28,8,reverse perturbation,6,exp2_reverse
+-9.204534884,3,29,8,reverse perturbation,6,exp2_reverse
+-9.804534884,3,30,8,reverse perturbation,6,exp2_reverse
+-7.854534884,3,31,8,reverse perturbation,6,exp2_reverse
+-8.974534884,3,32,8,reverse perturbation,6,exp2_reverse
+-11.25453488,3,33,8,reverse perturbation,6,exp2_reverse
+-5.954534884,3,34,8,reverse perturbation,7,exp2_reverse
+-2.234534884,3,35,8,reverse perturbation,7,exp2_reverse
+8.154534884,3,36,8,washout,8,exp2_reverse
+4.224534884,3,37,8,washout,8,exp2_reverse
+6.104534884,3,38,8,washout,9,exp2_reverse
+6.174534884,3,39,8,washout,9,exp2_reverse
+3.154534884,3,40,8,washout,9,exp2_reverse
+3.754534884,3,41,8,washout,9,exp2_reverse
+-1.515465116,3,42,8,washout,9,exp2_reverse
+-6.795465116,3,1,9,baseline,1,exp2_reverse
+-6.365465116,3,2,9,baseline,1,exp2_reverse
+-5.195465116,3,3,9,baseline,1,exp2_reverse
+-4.545465116,3,4,9,baseline,1,exp2_reverse
+-2.095465116,3,5,9,baseline,1,exp2_reverse
+-2.765465116,3,6,9,baseline,1,exp2_reverse
+4.054534884,3,7,9,perturbation,2,exp2_reverse
+-0.195465116,3,8,9,perturbation,2,exp2_reverse
+-1.795465116,3,9,9,perturbation,3,exp2_reverse
+4.079534884,3,10,9,perturbation,3,exp2_reverse
+1.884534884,3,11,9,perturbation,3,exp2_reverse
+1.784534884,3,12,9,perturbation,3,exp2_reverse
+-1.665465116,3,13,9,perturbation,3,exp2_reverse
+3.029534884,3,14,9,perturbation,3,exp2_reverse
+-0.545465116,3,15,9,perturbation,4,exp2_reverse
+-1.175465116,3,16,9,perturbation,4,exp2_reverse
+-16.57453488,3,17,9,reverse perturbation,5,exp2_reverse
+-21.20453488,3,18,9,reverse perturbation,5,exp2_reverse
+-18.62453488,3,19,9,reverse perturbation,6,exp2_reverse
+-16.65453488,3,20,9,reverse perturbation,6,exp2_reverse
+-15.40453488,3,21,9,reverse perturbation,6,exp2_reverse
+-15.61453488,3,22,9,reverse perturbation,6,exp2_reverse
+-16.82453488,3,23,9,reverse perturbation,6,exp2_reverse
+-14.80453488,3,24,9,reverse perturbation,6,exp2_reverse
+-16.77453488,3,25,9,reverse perturbation,6,exp2_reverse
+-13.37453488,3,26,9,reverse perturbation,6,exp2_reverse
+-11.90453488,3,27,9,reverse perturbation,6,exp2_reverse
+-15.75453488,3,28,9,reverse perturbation,6,exp2_reverse
+-14.77453488,3,29,9,reverse perturbation,6,exp2_reverse
+-13.70453488,3,30,9,reverse perturbation,6,exp2_reverse
+-12.30453488,3,31,9,reverse perturbation,6,exp2_reverse
+-13.67453488,3,32,9,reverse perturbation,6,exp2_reverse
+-7.974534884,3,33,9,reverse perturbation,6,exp2_reverse
+-5.674534884,3,34,9,reverse perturbation,7,exp2_reverse
+-4.704534884,3,35,9,reverse perturbation,7,exp2_reverse
+7.104534884,3,36,9,washout,8,exp2_reverse
+2.604534884,3,37,9,washout,8,exp2_reverse
+2.704534884,3,38,9,washout,9,exp2_reverse
+2.954534884,3,39,9,washout,9,exp2_reverse
+4.004534884,3,40,9,washout,9,exp2_reverse
+0.434534884,3,41,9,washout,9,exp2_reverse
+-4.395465116,3,42,9,washout,9,exp2_reverse
+-0.545465116,3,1,10,baseline,1,exp2_reverse
+-3.065465116,3,2,10,baseline,1,exp2_reverse
+1.584534884,3,3,10,baseline,1,exp2_reverse
+-1.555465116,3,4,10,baseline,1,exp2_reverse
+3.754534884,3,5,10,baseline,1,exp2_reverse
+7.854534884,3,6,10,perturbation,2,exp2_reverse
+3.394534884,3,7,10,perturbation,2,exp2_reverse
+5.304534884,3,8,10,perturbation,3,exp2_reverse
+3.704534884,3,9,10,perturbation,3,exp2_reverse
+4.724534884,3,10,10,perturbation,3,exp2_reverse
+4.774534884,3,11,10,perturbation,3,exp2_reverse
+6.124534884,3,12,10,perturbation,3,exp2_reverse
+4.254534884,3,13,10,perturbation,3,exp2_reverse
+-0.795465116,3,14,10,perturbation,4,exp2_reverse
+4.624534884,3,15,10,perturbation,4,exp2_reverse
+-10.07453488,3,16,10,reverse perturbation,5,exp2_reverse
+-9.854534884,3,17,10,reverse perturbation,5,exp2_reverse
+-4.624534884,3,18,10,reverse perturbation,6,exp2_reverse
+-9.104534884,3,19,10,reverse perturbation,6,exp2_reverse
+-14.22453488,3,20,10,reverse perturbation,6,exp2_reverse
+-13.25453488,3,21,10,reverse perturbation,6,exp2_reverse
+-9.554534884,3,22,10,reverse perturbation,6,exp2_reverse
+-11.32453488,3,23,10,reverse perturbation,6,exp2_reverse
+-7.754534884,3,24,10,reverse perturbation,6,exp2_reverse
+-17.42453488,3,25,10,reverse perturbation,6,exp2_reverse
+-9.574534884,3,26,10,reverse perturbation,6,exp2_reverse
+-8.104534884,3,27,10,reverse perturbation,6,exp2_reverse
+-11.67453488,3,28,10,reverse perturbation,6,exp2_reverse
+-6.174534884,3,29,10,reverse perturbation,6,exp2_reverse
+-9.524534884,3,30,10,reverse perturbation,6,exp2_reverse
+-6.874534884,3,31,10,reverse perturbation,6,exp2_reverse
+-9.124534884,3,32,10,reverse perturbation,6,exp2_reverse
+-11.12453488,3,33,10,reverse perturbation,6,exp2_reverse
+-5.704534884,3,34,10,reverse perturbation,7,exp2_reverse
+-5.874534884,3,35,10,reverse perturbation,7,exp2_reverse
+3.434534884,3,36,10,washout,8,exp2_reverse
+1.954534884,3,37,10,washout,8,exp2_reverse
+-0.015465116,3,38,10,washout,9,exp2_reverse
+3.524534884,3,39,10,washout,9,exp2_reverse
+-0.395465116,3,40,10,washout,9,exp2_reverse
+-0.465465116,3,41,10,washout,9,exp2_reverse
+2.304534884,3,42,10,washout,9,exp2_reverse
+-1.115465116,3,1,11,baseline,1,exp2_reverse
+-3.915465116,3,2,11,baseline,1,exp2_reverse
+-5.195465116,3,3,11,baseline,1,exp2_reverse
+-1.565465116,3,4,11,baseline,1,exp2_reverse
+-3.445465116,3,5,11,baseline,1,exp2_reverse
+-2.315465116,3,6,11,baseline,1,exp2_reverse
+5.884534884,3,7,11,perturbation,2,exp2_reverse
+7.204534884,3,8,11,perturbation,2,exp2_reverse
+5.674534884,3,9,11,perturbation,3,exp2_reverse
+4.274534884,3,10,11,perturbation,3,exp2_reverse
+4.204534884,3,11,11,perturbation,3,exp2_reverse
+10.07453488,3,12,11,perturbation,3,exp2_reverse
+4.724534884,3,13,11,perturbation,3,exp2_reverse
+5.254534884,3,14,11,perturbation,3,exp2_reverse
+3.484534884,3,15,11,perturbation,4,exp2_reverse
+3.204534884,3,16,11,perturbation,4,exp2_reverse
+-9.204534884,3,17,11,reverse perturbation,5,exp2_reverse
+-5.674534884,3,18,11,reverse perturbation,5,exp2_reverse
+-4.274534884,3,19,11,reverse perturbation,6,exp2_reverse
+-4.204534884,3,20,11,reverse perturbation,6,exp2_reverse
+-10.07453488,3,21,11,reverse perturbation,6,exp2_reverse
+-4.724534884,3,22,11,reverse perturbation,6,exp2_reverse
+-5.254534884,3,23,11,reverse perturbation,6,exp2_reverse
+-3.484534884,3,24,11,reverse perturbation,6,exp2_reverse
+-5.704534884,3,25,11,reverse perturbation,6,exp2_reverse
+-12.22453488,3,26,11,reverse perturbation,6,exp2_reverse
+-7.154534884,3,27,11,reverse perturbation,6,exp2_reverse
+-5.074534884,3,28,11,reverse perturbation,6,exp2_reverse
+-7.704534884,3,29,11,reverse perturbation,6,exp2_reverse
+-8.524534884,3,30,11,reverse perturbation,6,exp2_reverse
+-12.29453488,3,31,11,reverse perturbation,6,exp2_reverse
+-13.17453488,3,32,11,reverse perturbation,6,exp2_reverse
+-8.354534884,3,33,11,reverse perturbation,6,exp2_reverse
+-6.954534884,3,34,11,reverse perturbation,6,exp2_reverse
+-6.074534884,3,35,11,reverse perturbation,7,exp2_reverse
+-5.424534884,3,36,11,reverse perturbation,7,exp2_reverse
+6.054534884,3,37,11,washout,8,exp2_reverse
+3.804534884,3,38,11,washout,8,exp2_reverse
+6.304534884,3,39,11,washout,9,exp2_reverse
+-2.265465116,3,40,11,washout,9,exp2_reverse
+0.004534884,3,41,11,washout,9,exp2_reverse
+1.184534884,3,42,11,washout,9,exp2_reverse
+-1.145465116,3,43,11,washout,9,exp2_reverse
+-4.585465116,3,1,12,baseline,1,exp2_reverse
+-3.915465116,3,2,12,baseline,1,exp2_reverse
+-6.615465116,3,3,12,baseline,1,exp2_reverse
+-0.245465116,3,4,12,baseline,1,exp2_reverse
+-5.015465116,3,5,12,baseline,1,exp2_reverse
+1.754534884,3,6,12,baseline,1,exp2_reverse
+6.084534884,3,7,12,perturbation,2,exp2_reverse
+8.024534884,3,8,12,perturbation,2,exp2_reverse
+-4.295465116,3,9,12,perturbation,3,exp2_reverse
+2.784534884,3,10,12,perturbation,3,exp2_reverse
+1.334534884,3,11,12,perturbation,3,exp2_reverse
+2.634534884,3,12,12,perturbation,3,exp2_reverse
+4.274534884,3,13,12,perturbation,3,exp2_reverse
+0.534534884,3,14,12,perturbation,3,exp2_reverse
+5.554534884,3,15,12,perturbation,4,exp2_reverse
+-0.965465116,3,16,12,perturbation,4,exp2_reverse
+-16.55453488,3,17,12,reverse perturbation,5,exp2_reverse
+-15.02453488,3,18,12,reverse perturbation,5,exp2_reverse
+-12.57453488,3,19,12,reverse perturbation,6,exp2_reverse
+-11.35453488,3,20,12,reverse perturbation,6,exp2_reverse
+-11.45453488,3,21,12,reverse perturbation,6,exp2_reverse
+-9.524534884,3,22,12,reverse perturbation,6,exp2_reverse
+-10.15453488,3,23,12,reverse perturbation,6,exp2_reverse
+-7.924534884,3,24,12,reverse perturbation,6,exp2_reverse
+-22.70453488,3,25,12,reverse perturbation,6,exp2_reverse
+-18.52453488,3,26,12,reverse perturbation,6,exp2_reverse
+-13.10453488,3,27,12,reverse perturbation,6,exp2_reverse
+-9.904534884,3,28,12,reverse perturbation,6,exp2_reverse
+-10.40453488,3,29,12,reverse perturbation,6,exp2_reverse
+-13.17453488,3,30,12,reverse perturbation,6,exp2_reverse
+-8.504534884,3,31,12,reverse perturbation,6,exp2_reverse
+-13.75453488,3,32,12,reverse perturbation,6,exp2_reverse
+-2.634534884,3,33,12,reverse perturbation,6,exp2_reverse
+-5.824534884,3,34,12,reverse perturbation,7,exp2_reverse
+-5.074534884,3,35,12,reverse perturbation,7,exp2_reverse
+6.374534884,3,36,12,washout,8,exp2_reverse
+2.824534884,3,37,12,washout,8,exp2_reverse
+2.354534884,3,38,12,washout,9,exp2_reverse
+2.924534884,3,39,12,washout,9,exp2_reverse
+2.054534884,3,40,12,washout,9,exp2_reverse
+3.924534884,3,41,12,washout,9,exp2_reverse
+-0.245465116,3,42,12,washout,9,exp2_reverse
+-1.245465116,3,1,13,baseline,1,exp2_reverse
+7.324534884,3,2,13,baseline,1,exp2_reverse
+5.804534884,3,3,13,baseline,1,exp2_reverse
+-0.515465116,3,4,13,baseline,1,exp2_reverse
+5.274534884,3,5,13,baseline,1,exp2_reverse
+7.874534884,3,6,13,perturbation,2,exp2_reverse
+6.024534884,3,7,13,perturbation,2,exp2_reverse
+7.574534884,3,8,13,perturbation,3,exp2_reverse
+5.754534884,3,9,13,perturbation,3,exp2_reverse
+4.724534884,3,10,13,perturbation,3,exp2_reverse
+12.37453488,3,11,13,perturbation,3,exp2_reverse
+5.354534884,3,12,13,perturbation,3,exp2_reverse
+4.824534884,3,13,13,perturbation,3,exp2_reverse
+5.224534884,3,14,13,perturbation,4,exp2_reverse
+3.884534884,3,15,13,perturbation,4,exp2_reverse
+-15.87453488,3,16,13,reverse perturbation,5,exp2_reverse
+-15.40453488,3,17,13,reverse perturbation,5,exp2_reverse
+-8.274534884,3,18,13,reverse perturbation,6,exp2_reverse
+-13.25453488,3,19,13,reverse perturbation,6,exp2_reverse
+-8.024534884,3,20,13,reverse perturbation,6,exp2_reverse
+-11.10453488,3,21,13,reverse perturbation,6,exp2_reverse
+-11.12453488,3,22,13,reverse perturbation,6,exp2_reverse
+-11.47453488,3,23,13,reverse perturbation,6,exp2_reverse
+-11.95453488,3,24,13,reverse perturbation,6,exp2_reverse
+-8.754534884,3,25,13,reverse perturbation,6,exp2_reverse
+-13.32453488,3,26,13,reverse perturbation,6,exp2_reverse
+-8.874534884,3,27,13,reverse perturbation,6,exp2_reverse
+-10.22453488,3,28,13,reverse perturbation,6,exp2_reverse
+-6.924534884,3,29,13,reverse perturbation,6,exp2_reverse
+-8.604534884,3,30,13,reverse perturbation,6,exp2_reverse
+-10.12453488,3,31,13,reverse perturbation,6,exp2_reverse
+-12.27453488,3,32,13,reverse perturbation,7,exp2_reverse
+-4.604534884,3,33,13,reverse perturbation,7,exp2_reverse
+2.254534884,3,34,13,washout,8,exp2_reverse
+1.304534884,3,35,13,washout,8,exp2_reverse
+2.054534884,3,36,13,washout,9,exp2_reverse
+0.154534884,3,37,13,washout,9,exp2_reverse
+3.484534884,3,38,13,washout,9,exp2_reverse
+-0.365465116,3,39,13,washout,9,exp2_reverse
+0.054534884,3,40,13,washout,9,exp2_reverse
+-2.115465116,3,1,14,baseline,1,exp2_reverse
+2.604534884,3,2,14,baseline,1,exp2_reverse
+4.704534884,3,3,14,baseline,1,exp2_reverse
+2.604534884,3,4,14,baseline,1,exp2_reverse
+-2.095465116,3,5,14,baseline,1,exp2_reverse
+0.004534884,3,6,14,baseline,1,exp2_reverse
+7.904534884,3,7,14,perturbation,2,exp2_reverse
+5.404534884,3,8,14,perturbation,2,exp2_reverse
+7.184534884,3,9,14,perturbation,3,exp2_reverse
+8.654534884,3,10,14,perturbation,3,exp2_reverse
+7.524534884,3,11,14,perturbation,3,exp2_reverse
+3.204534884,3,12,14,perturbation,3,exp2_reverse
+5.674534884,3,13,14,perturbation,3,exp2_reverse
+6.924534884,3,14,14,perturbation,4,exp2_reverse
+5.574534884,3,15,14,perturbation,4,exp2_reverse
+-11.13453488,3,16,14,reverse perturbation,5,exp2_reverse
+-13.90453488,3,17,14,reverse perturbation,5,exp2_reverse
+-9.534534884,3,18,14,reverse perturbation,6,exp2_reverse
+-5.654534884,3,19,14,reverse perturbation,6,exp2_reverse
+-10.37453488,3,20,14,reverse perturbation,6,exp2_reverse
+-13.98453488,3,21,14,reverse perturbation,6,exp2_reverse
+-11.75453488,3,22,14,reverse perturbation,6,exp2_reverse
+-6.184534884,3,23,14,reverse perturbation,6,exp2_reverse
+-5.474534884,3,24,14,reverse perturbation,6,exp2_reverse
+-14.92453488,3,25,14,reverse perturbation,6,exp2_reverse
+-5.304534884,3,26,14,reverse perturbation,6,exp2_reverse
+-8.354534884,3,27,14,reverse perturbation,6,exp2_reverse
+-12.65453488,3,28,14,reverse perturbation,6,exp2_reverse
+-2.454534884,3,29,14,reverse perturbation,6,exp2_reverse
+-5.254534884,3,30,14,reverse perturbation,6,exp2_reverse
+-4.384534884,3,31,14,reverse perturbation,6,exp2_reverse
+-10.77453488,3,32,14,reverse perturbation,6,exp2_reverse
+-4.724534884,3,33,14,reverse perturbation,7,exp2_reverse
+-7.354534884,3,34,14,reverse perturbation,7,exp2_reverse
+10.22453488,3,35,14,washout,8,exp2_reverse
+5.954534884,3,36,14,washout,8,exp2_reverse
+4.474534884,3,37,14,washout,9,exp2_reverse
+6.454534884,3,38,14,washout,9,exp2_reverse
+4.154534884,3,39,14,washout,9,exp2_reverse
+-0.295465116,3,40,14,washout,9,exp2_reverse
+1.434534884,3,41,14,washout,9,exp2_reverse
+-6.595465116,3,1,15,baseline,1,exp2_reverse
+2.684534884,3,2,15,baseline,1,exp2_reverse
+2.704534884,3,3,15,baseline,1,exp2_reverse
+3.184534884,3,4,15,baseline,1,exp2_reverse
+-5.665465116,3,5,15,baseline,1,exp2_reverse
+0.584534884,3,6,15,baseline,1,exp2_reverse
+10.02453488,3,7,15,perturbation,2,exp2_reverse
+6.004534884,3,8,15,perturbation,2,exp2_reverse
+4.674534884,3,9,15,perturbation,3,exp2_reverse
+8.154534884,3,10,15,perturbation,3,exp2_reverse
+11.40453488,3,11,15,perturbation,3,exp2_reverse
+7.124534884,3,12,15,perturbation,3,exp2_reverse
+7.754534884,3,13,15,perturbation,3,exp2_reverse
+9.224534884,3,14,15,perturbation,3,exp2_reverse
+4.184534884,3,15,15,perturbation,4,exp2_reverse
+3.804534884,3,16,15,perturbation,4,exp2_reverse
+-11.87453488,3,17,15,reverse perturbation,5,exp2_reverse
+-13.15453488,3,18,15,reverse perturbation,5,exp2_reverse
+-15.15453488,3,19,15,reverse perturbation,6,exp2_reverse
+-9.774534884,3,20,15,reverse perturbation,6,exp2_reverse
+-12.62453488,3,21,15,reverse perturbation,6,exp2_reverse
+-9.854534884,3,22,15,reverse perturbation,6,exp2_reverse
+-11.45453488,3,23,15,reverse perturbation,6,exp2_reverse
+-7.204534884,3,24,15,reverse perturbation,6,exp2_reverse
+-11.37453488,3,25,15,reverse perturbation,6,exp2_reverse
+-3.084534884,3,26,15,reverse perturbation,6,exp2_reverse
+-13.42453488,3,27,15,reverse perturbation,6,exp2_reverse
+-5.554534884,3,28,15,reverse perturbation,6,exp2_reverse
+-8.104534884,3,29,15,reverse perturbation,6,exp2_reverse
+-6.674534884,3,30,15,reverse perturbation,6,exp2_reverse
+-8.074534884,3,31,15,reverse perturbation,7,exp2_reverse
+-7.524534884,3,32,15,reverse perturbation,7,exp2_reverse
+2.604534884,3,33,15,washout,8,exp2_reverse
+0.534534884,3,34,15,washout,8,exp2_reverse
+-3.115465116,3,35,15,washout,9,exp2_reverse
+-1.115465116,3,36,15,washout,9,exp2_reverse
+3.054534884,3,37,15,washout,9,exp2_reverse
+3.804534884,3,38,15,washout,9,exp2_reverse
+-2.715465116,3,39,15,washout,9,exp2_reverse
+0.415,6,1,1,baseline,1,exp2_reverse
+1.465,6,2,1,baseline,1,exp2_reverse
+-0.385,6,3,1,baseline,1,exp2_reverse
+-0.21,6,4,1,baseline,1,exp2_reverse
+-1.285,6,5,1,baseline,1,exp2_reverse
+4.54,6,6,1,perturbation,2,exp2_reverse
+-0.385,6,7,1,perturbation,2,exp2_reverse
+3.99,6,8,1,perturbation,3,exp2_reverse
+-1.835,6,9,1,perturbation,3,exp2_reverse
+0.315,6,10,1,perturbation,3,exp2_reverse
+-0.66,6,11,1,perturbation,3,exp2_reverse
+-2.485,6,12,1,perturbation,4,exp2_reverse
+-0.11,6,13,1,perturbation,4,exp2_reverse
+-11.335,6,14,1,reverse perturbation,5,exp2_reverse
+-8.16,6,15,1,reverse perturbation,5,exp2_reverse
+-3.91,6,16,1,reverse perturbation,6,exp2_reverse
+-4.785,6,17,1,reverse perturbation,6,exp2_reverse
+-1.635,6,18,1,reverse perturbation,6,exp2_reverse
+-7.885,6,19,1,reverse perturbation,6,exp2_reverse
+-0.085,6,20,1,reverse perturbation,6,exp2_reverse
+-7.81,6,21,1,reverse perturbation,6,exp2_reverse
+-5.91,6,22,1,reverse perturbation,6,exp2_reverse
+-7.735,6,23,1,reverse perturbation,6,exp2_reverse
+-5.71,6,24,1,reverse perturbation,6,exp2_reverse
+-6.935,6,25,1,reverse perturbation,6,exp2_reverse
+-6.385,6,26,1,reverse perturbation,7,exp2_reverse
+-4.735,6,27,1,reverse perturbation,7,exp2_reverse
+1.69,6,28,1,washout,8,exp2_reverse
+-1.885,6,29,1,washout,8,exp2_reverse
+-2.76,6,30,1,washout,9,exp2_reverse
+2.465,6,31,1,washout,9,exp2_reverse
+0.84,6,32,1,washout,9,exp2_reverse
+-2.035,6,33,1,washout,9,exp2_reverse
+4.19,6,1,2,baseline,1,exp2_reverse
+-0.41,6,2,2,baseline,1,exp2_reverse
+-0.285,6,3,2,baseline,1,exp2_reverse
+-3.785,6,4,2,baseline,1,exp2_reverse
+0.29,6,5,2,baseline,1,exp2_reverse
+4.64,6,6,2,perturbation,2,exp2_reverse
+5.04,6,7,2,perturbation,2,exp2_reverse
+3.14,6,8,2,perturbation,3,exp2_reverse
+2.065,6,9,2,perturbation,3,exp2_reverse
+1.54,6,10,2,perturbation,3,exp2_reverse
+2.24,6,11,2,perturbation,3,exp2_reverse
+6.065,6,12,2,perturbation,3,exp2_reverse
+-0.41,6,13,2,perturbation,3,exp2_reverse
+-1.21,6,14,2,perturbation,4,exp2_reverse
+1.34,6,15,2,perturbation,4,exp2_reverse
+-19.91,6,16,2,reverse perturbation,5,exp2_reverse
+-22.46,6,17,2,reverse perturbation,5,exp2_reverse
+-10.185,6,18,2,reverse perturbation,6,exp2_reverse
+-7.635,6,19,2,reverse perturbation,6,exp2_reverse
+-5.935,6,20,2,reverse perturbation,6,exp2_reverse
+-1.385,6,21,2,reverse perturbation,6,exp2_reverse
+-7.36,6,22,2,reverse perturbation,6,exp2_reverse
+-3.035,6,23,2,reverse perturbation,6,exp2_reverse
+-5.71,6,24,2,reverse perturbation,6,exp2_reverse
+-3.035,6,25,2,reverse perturbation,6,exp2_reverse
+-0.46,6,26,2,reverse perturbation,6,exp2_reverse
+-6.435,6,27,2,reverse perturbation,6,exp2_reverse
+-0.685,6,28,2,reverse perturbation,6,exp2_reverse
+-3.81,6,29,2,reverse perturbation,7,exp2_reverse
+-2.985,6,30,2,reverse perturbation,7,exp2_reverse
+2.54,6,31,2,washout,8,exp2_reverse
+2.29,6,32,2,washout,8,exp2_reverse
+1.215,6,33,2,washout,9,exp2_reverse
+-1.635,6,34,2,washout,9,exp2_reverse
+0.315,6,35,2,washout,9,exp2_reverse
+1.14,6,36,2,washout,9,exp2_reverse
+2.780952381,6,1,3,baseline,1,exp2_reverse
+-1.171428571,6,2,3,baseline,1,exp2_reverse
+1.757142857,6,3,3,baseline,1,exp2_reverse
+-4.623809524,6,4,3,baseline,1,exp2_reverse
+1.257142857,6,5,3,baseline,1,exp2_reverse
+8.114285714,6,6,3,perturbation,2,exp2_reverse
+6.257142857,6,7,3,perturbation,2,exp2_reverse
+2.59047619,6,8,3,perturbation,3,exp2_reverse
+5.4,6,9,3,perturbation,3,exp2_reverse
+0.495238095,6,10,3,perturbation,3,exp2_reverse
+0.019047619,6,11,3,perturbation,3,exp2_reverse
+-1.385714286,6,12,3,perturbation,3,exp2_reverse
+4.161904762,6,13,3,perturbation,4,exp2_reverse
+-3.266666667,6,14,3,perturbation,4,exp2_reverse
+-20.02857143,6,15,3,reverse perturbation,5,exp2_reverse
+-17.29047619,6,16,3,reverse perturbation,5,exp2_reverse
+-6.457142857,6,17,3,reverse perturbation,6,exp2_reverse
+-5.361904762,6,18,3,reverse perturbation,6,exp2_reverse
+-1.719047619,6,19,3,reverse perturbation,6,exp2_reverse
+-3.338095238,6,20,3,reverse perturbation,6,exp2_reverse
+-0.40952381,6,21,3,reverse perturbation,6,exp2_reverse
+-3.957142857,6,22,3,reverse perturbation,6,exp2_reverse
+-1.552380952,6,23,3,reverse perturbation,6,exp2_reverse
+-4.957142857,6,24,3,reverse perturbation,6,exp2_reverse
+-5.195238095,6,25,3,reverse perturbation,6,exp2_reverse
+-0.147619048,6,26,3,reverse perturbation,6,exp2_reverse
+-1.838095238,6,27,3,reverse perturbation,6,exp2_reverse
+-2.980952381,6,28,3,reverse perturbation,7,exp2_reverse
+-4.838095238,6,29,3,reverse perturbation,7,exp2_reverse
+8.995238095,6,30,3,washout,8,exp2_reverse
+1.242857143,6,31,3,washout,8,exp2_reverse
+4.995238095,6,32,3,washout,9,exp2_reverse
+2.757142857,6,33,3,washout,9,exp2_reverse
+4.923809524,6,34,3,washout,9,exp2_reverse
+-1.004761905,6,35,3,washout,9,exp2_reverse
+1.066666667,6,36,3,washout,9,exp2_reverse
+1.090909091,6,1,4,baseline,1,exp2_reverse
+0.704545455,6,2,4,baseline,1,exp2_reverse
+-3.818181818,6,3,4,baseline,1,exp2_reverse
+-0.340909091,6,4,4,baseline,1,exp2_reverse
+-0.181818182,6,5,4,baseline,1,exp2_reverse
+2.545454545,6,6,4,baseline,1,exp2_reverse
+5.727272727,6,7,4,perturbation,2,exp2_reverse
+3.840909091,6,8,4,perturbation,2,exp2_reverse
+7.909090909,6,9,4,perturbation,3,exp2_reverse
+6.568181818,6,10,4,perturbation,3,exp2_reverse
+-0.227272727,6,11,4,perturbation,3,exp2_reverse
+-1.522727273,6,12,4,perturbation,3,exp2_reverse
+7.068181818,6,13,4,perturbation,4,exp2_reverse
+3.045454545,6,14,4,perturbation,4,exp2_reverse
+-26.84090909,6,15,4,reverse perturbation,5,exp2_reverse
+-14.70454545,6,16,4,reverse perturbation,5,exp2_reverse
+-4.068181818,6,17,4,reverse perturbation,6,exp2_reverse
+-7.227272727,6,18,4,reverse perturbation,6,exp2_reverse
+4.522727273,6,19,4,reverse perturbation,6,exp2_reverse
+-1.977272727,6,20,4,reverse perturbation,6,exp2_reverse
+-1.840909091,6,21,4,reverse perturbation,6,exp2_reverse
+0.340909091,6,22,4,reverse perturbation,6,exp2_reverse
+1.568181818,6,23,4,reverse perturbation,6,exp2_reverse
+1.886363636,6,24,4,reverse perturbation,7,exp2_reverse
+3.25,6,25,4,reverse perturbation,7,exp2_reverse
+7.727272727,6,26,4,washout,8,exp2_reverse
+8.863636364,6,27,4,washout,8,exp2_reverse
+4.590909091,6,28,4,washout,9,exp2_reverse
+3.545454545,6,29,4,washout,9,exp2_reverse
+-0.659090909,6,30,4,washout,9,exp2_reverse
+0.25,6,31,4,washout,9,exp2_reverse
+1.727272727,7,1,1,baseline,1,exp2_reverse
+-3.954545455,7,2,1,baseline,1,exp2_reverse
+1.454545455,7,3,1,baseline,1,exp2_reverse
+2.318181818,7,4,1,baseline,1,exp2_reverse
+-1.545454545,7,5,1,baseline,1,exp2_reverse
+4.272727273,7,6,1,perturbation,2,exp2_reverse
+3.727272727,7,7,1,perturbation,2,exp2_reverse
+4.318181818,7,8,1,perturbation,3,exp2_reverse
+4.454545455,7,9,1,perturbation,3,exp2_reverse
+-3.636363636,7,10,1,perturbation,3,exp2_reverse
+3.181818182,7,11,1,perturbation,4,exp2_reverse
+1.727272727,7,12,1,perturbation,4,exp2_reverse
+-7.909090909,7,13,1,reverse perturbation,5,exp2_reverse
+-5.409090909,7,14,1,reverse perturbation,5,exp2_reverse
+-1.363636364,7,15,1,reverse perturbation,6,exp2_reverse
+-6.863636364,7,16,1,reverse perturbation,6,exp2_reverse
+-6.863636364,7,17,1,reverse perturbation,6,exp2_reverse
+-0.409090909,7,18,1,reverse perturbation,6,exp2_reverse
+-2.545454545,7,19,1,reverse perturbation,6,exp2_reverse
+-1.772727273,7,20,1,reverse perturbation,7,exp2_reverse
+-3.045454545,7,21,1,reverse perturbation,7,exp2_reverse
+3.590909091,7,22,1,washout,8,exp2_reverse
+-1.454545455,7,23,1,washout,8,exp2_reverse
+-3.636363636,7,24,1,washout,9,exp2_reverse
+-4.181818182,7,25,1,washout,9,exp2_reverse
+-5.5,7,26,1,washout,9,exp2_reverse
+-1.181818182,7,1,2,baseline,1,exp2_reverse
+0.409090909,7,2,2,baseline,1,exp2_reverse
+-0.227272727,7,3,2,baseline,1,exp2_reverse
+2.181818182,7,4,2,baseline,1,exp2_reverse
+-1.181818182,7,5,2,baseline,1,exp2_reverse
+7.954545455,7,6,2,perturbation,2,exp2_reverse
+3.318181818,7,7,2,perturbation,2,exp2_reverse
+-2.909090909,7,8,2,perturbation,3,exp2_reverse
+-2.136363636,7,9,2,perturbation,3,exp2_reverse
+5.136363636,7,10,2,perturbation,3,exp2_reverse
+-1.772727273,7,11,2,perturbation,3,exp2_reverse
+7.181818182,7,12,2,perturbation,3,exp2_reverse
+-2.636363636,7,13,2,perturbation,3,exp2_reverse
+0.454545455,7,14,2,perturbation,4,exp2_reverse
+-3.545454545,7,15,2,perturbation,4,exp2_reverse
+-11.31818182,7,16,2,reverse perturbation,5,exp2_reverse
+-11.09090909,7,17,2,reverse perturbation,5,exp2_reverse
+-10.95454545,7,18,2,reverse perturbation,6,exp2_reverse
+-8.5,7,19,2,reverse perturbation,6,exp2_reverse
+-5.772727273,7,20,2,reverse perturbation,6,exp2_reverse
+1.772727273,7,21,2,reverse perturbation,6,exp2_reverse
+-4.272727273,7,22,2,reverse perturbation,6,exp2_reverse
+-2.454545455,7,23,2,reverse perturbation,6,exp2_reverse
+-0.590909091,7,24,2,reverse perturbation,7,exp2_reverse
+-2.954545455,7,25,2,reverse perturbation,7,exp2_reverse
+2.772727273,7,26,2,washout,8,exp2_reverse
+-2.636363636,7,27,2,washout,8,exp2_reverse
+-0.454545455,7,28,2,washout,9,exp2_reverse
+-0.818181818,7,29,2,washout,9,exp2_reverse
+-1.227272727,7,30,2,washout,9,exp2_reverse
+1.181818182,7,1,3,baseline,1,exp2_reverse
+-3.454545455,7,2,3,baseline,1,exp2_reverse
+-0.227272727,7,3,3,baseline,1,exp2_reverse
+1.363636364,7,4,3,baseline,1,exp2_reverse
+1.136363636,7,5,3,baseline,1,exp2_reverse
+7.954545455,7,6,3,perturbation,2,exp2_reverse
+8.409090909,7,7,3,perturbation,2,exp2_reverse
+0.818181818,7,8,3,perturbation,3,exp2_reverse
+1,7,9,3,perturbation,3,exp2_reverse
+0.727272727,7,10,3,perturbation,3,exp2_reverse
+-0.181818182,7,11,3,perturbation,3,exp2_reverse
+-1.181818182,7,12,3,perturbation,3,exp2_reverse
+-0.409090909,7,13,3,perturbation,3,exp2_reverse
+0.863636364,7,14,3,perturbation,4,exp2_reverse
+0.727272727,7,15,3,perturbation,4,exp2_reverse
+-10.31818182,7,16,3,reverse perturbation,5,exp2_reverse
+-7.909090909,7,17,3,reverse perturbation,5,exp2_reverse
+-9.136363636,7,18,3,reverse perturbation,6,exp2_reverse
+-6.454545455,7,19,3,reverse perturbation,6,exp2_reverse
+-1.318181818,7,20,3,reverse perturbation,6,exp2_reverse
+-0.818181818,7,21,3,reverse perturbation,6,exp2_reverse
+-2.863636364,7,22,3,reverse perturbation,6,exp2_reverse
+-6.045454545,7,23,3,reverse perturbation,6,exp2_reverse
+-4.045454545,7,24,3,reverse perturbation,7,exp2_reverse
+-5.318181818,7,25,3,reverse perturbation,7,exp2_reverse
+-0.227272727,7,26,3,washout,8,exp2_reverse
+-6.181818182,7,27,3,washout,8,exp2_reverse
+-9.909090909,7,28,3,washout,9,exp2_reverse
+-9.636363636,7,29,3,washout,9,exp2_reverse
+-3.318181818,7,30,3,washout,9,exp2_reverse
+1.372727273,7,1,4,baseline,1,exp2_reverse
+-5.172727273,7,2,4,baseline,1,exp2_reverse
+4.963636364,7,3,4,baseline,1,exp2_reverse
+-1.172727273,7,4,4,baseline,1,exp2_reverse
+0.009090909,7,5,4,baseline,1,exp2_reverse
+10.43636364,7,6,4,perturbation,2,exp2_reverse
+1.436363636,7,7,4,perturbation,2,exp2_reverse
+0.618181818,7,8,4,perturbation,3,exp2_reverse
+6.436363636,7,9,4,perturbation,3,exp2_reverse
+1.254545455,7,10,4,perturbation,3,exp2_reverse
+0.3,7,11,4,perturbation,3,exp2_reverse
+5.072727273,7,12,4,perturbation,4,exp2_reverse
+-0.836363636,7,13,4,perturbation,4,exp2_reverse
+-8.927272727,7,14,4,reverse perturbation,5,exp2_reverse
+-3.481818182,7,15,4,reverse perturbation,5,exp2_reverse
+-7.609090909,7,16,4,reverse perturbation,6,exp2_reverse
+-1.654545455,7,17,4,reverse perturbation,6,exp2_reverse
+-0.381818182,7,18,4,reverse perturbation,6,exp2_reverse
+-3.472727273,7,19,4,reverse perturbation,6,exp2_reverse
+0.390909091,7,20,4,reverse perturbation,6,exp2_reverse
+-3.790909091,7,21,4,reverse perturbation,7,exp2_reverse
+-1.154545455,7,22,4,reverse perturbation,7,exp2_reverse
+2.481818182,7,23,4,washout,8,exp2_reverse
+0.209090909,7,24,4,washout,8,exp2_reverse
+1.345454545,7,25,4,washout,9,exp2_reverse
+1.027272727,7,26,4,washout,9,exp2_reverse
+1.845454545,7,27,4,washout,9,exp2_reverse
+1.245454545,7,1,5,baseline,1,exp2_reverse
+-1.163636364,7,2,5,baseline,1,exp2_reverse
+-5.572727273,7,3,5,baseline,1,exp2_reverse
+1.7,7,4,5,baseline,1,exp2_reverse
+3.790909091,7,5,5,baseline,1,exp2_reverse
+10.24545455,7,6,5,perturbation,2,exp2_reverse
+6.518181818,7,7,5,perturbation,2,exp2_reverse
+5.563636364,7,8,5,perturbation,3,exp2_reverse
+1.245454545,7,9,5,perturbation,3,exp2_reverse
+1.154545455,7,10,5,perturbation,3,exp2_reverse
+2.972727273,7,11,5,perturbation,3,exp2_reverse
+1.472727273,7,12,5,perturbation,3,exp2_reverse
+3.2,7,13,5,perturbation,4,exp2_reverse
+1.972727273,7,14,5,perturbation,4,exp2_reverse
+-11.07272727,7,15,5,reverse perturbation,5,exp2_reverse
+-6.027272727,7,16,5,reverse perturbation,5,exp2_reverse
+-7.163636364,7,17,5,reverse perturbation,6,exp2_reverse
+3.7,7,18,5,reverse perturbation,6,exp2_reverse
+-0.572727273,7,19,5,reverse perturbation,6,exp2_reverse
+-0.072727273,7,20,5,reverse perturbation,6,exp2_reverse
+0.7,7,21,5,reverse perturbation,6,exp2_reverse
+-0.709090909,7,22,5,reverse perturbation,7,exp2_reverse
+-0.072727273,7,23,5,reverse perturbation,7,exp2_reverse
+3.927272727,7,24,5,washout,8,exp2_reverse
+1.790909091,7,25,5,washout,8,exp2_reverse
+-4.209090909,7,26,5,washout,9,exp2_reverse
+-3.663636364,7,27,5,washout,9,exp2_reverse
+2.2,7,28,5,washout,9,exp2_reverse
+0.561904762,7,1,6,baseline,1,exp2_reverse
+-0.628571429,7,2,6,baseline,1,exp2_reverse
+1.657142857,7,3,6,baseline,1,exp2_reverse
+0.561904762,7,4,6,baseline,1,exp2_reverse
+-2.152380952,7,5,6,baseline,1,exp2_reverse
+2.752380952,7,6,6,perturbation,2,exp2_reverse
+6.752380952,7,7,6,perturbation,2,exp2_reverse
+-8.247619048,7,8,6,perturbation,3,exp2_reverse
+-0.676190476,7,9,6,perturbation,3,exp2_reverse
+-0.2,7,10,6,perturbation,3,exp2_reverse
+0.323809524,7,11,6,perturbation,4,exp2_reverse
+-0.580952381,7,12,6,perturbation,4,exp2_reverse
+-9.485714286,7,13,6,reverse perturbation,5,exp2_reverse
+-7.438095238,7,14,6,reverse perturbation,5,exp2_reverse
+-4.485714286,7,15,6,reverse perturbation,6,exp2_reverse
+-1.628571429,7,16,6,reverse perturbation,6,exp2_reverse
+-1.961904762,7,17,6,reverse perturbation,6,exp2_reverse
+-1.342857143,7,18,6,reverse perturbation,6,exp2_reverse
+-4.152380952,7,19,6,reverse perturbation,6,exp2_reverse
+-1.533333333,7,20,6,reverse perturbation,6,exp2_reverse
+-2.057142857,7,21,6,reverse perturbation,7,exp2_reverse
+-2.342857143,7,22,6,reverse perturbation,7,exp2_reverse
+4.228571429,7,23,6,washout,8,exp2_reverse
+-1.580952381,7,24,6,washout,8,exp2_reverse
+0.038095238,7,25,6,washout,9,exp2_reverse
+0.323809524,7,26,6,washout,9,exp2_reverse
+1.038095238,7,27,6,washout,9,exp2_reverse
+0.103174603,7,1,7,baseline,1,exp2_reverse
+2.579365079,7,2,7,baseline,1,exp2_reverse
+-1.658730159,7,3,7,baseline,1,exp2_reverse
+2.626984127,7,4,7,baseline,1,exp2_reverse
+-1.992063492,7,5,7,baseline,1,exp2_reverse
+-1.658730159,7,6,7,baseline,1,exp2_reverse
+8.007936508,7,7,7,perturbation,2,exp2_reverse
+4.626984127,7,8,7,perturbation,2,exp2_reverse
+4.198412698,7,9,7,perturbation,3,exp2_reverse
+-2.801587302,7,10,7,perturbation,3,exp2_reverse
+5.198412698,7,11,7,perturbation,3,exp2_reverse
+2.436507937,7,12,7,perturbation,3,exp2_reverse
+-0.03968254,7,13,7,perturbation,4,exp2_reverse
+0.293650794,7,14,7,perturbation,4,exp2_reverse
+-12.18253968,7,15,7,reverse perturbation,5,exp2_reverse
+-9.896825397,7,16,7,reverse perturbation,5,exp2_reverse
+-2.992063492,7,17,7,reverse perturbation,6,exp2_reverse
+-4.753968254,7,18,7,reverse perturbation,6,exp2_reverse
+-0.801587302,7,19,7,reverse perturbation,6,exp2_reverse
+0.579365079,7,20,7,reverse perturbation,6,exp2_reverse
+-1.515873016,7,21,7,reverse perturbation,6,exp2_reverse
+-2.182539683,7,22,7,reverse perturbation,7,exp2_reverse
+-2.277777778,7,23,7,reverse perturbation,7,exp2_reverse
+7.626984127,7,24,7,washout,8,exp2_reverse
+-4.03968254,7,25,7,washout,8,exp2_reverse
+4.103174603,7,26,7,washout,9,exp2_reverse
+5.007936508,7,27,7,washout,9,exp2_reverse
+1.150793651,7,28,7,washout,9,exp2_reverse
+-3.771428571,7,1,8,baseline,1,exp2_reverse
+2.133333333,7,2,8,baseline,1,exp2_reverse
+2.8,7,3,8,baseline,1,exp2_reverse
+0.657142857,7,4,8,baseline,1,exp2_reverse
+-1.819047619,7,5,8,baseline,1,exp2_reverse
+4.514285714,7,6,8,perturbation,2,exp2_reverse
+5.466666667,7,7,8,perturbation,2,exp2_reverse
+4.704761905,7,8,8,perturbation,3,exp2_reverse
+5.180952381,7,9,8,perturbation,3,exp2_reverse
+-2.819047619,7,10,8,perturbation,3,exp2_reverse
+3.99047619,7,11,8,perturbation,3,exp2_reverse
+-7.676190476,7,12,8,perturbation,4,exp2_reverse
+0.752380952,7,13,8,perturbation,4,exp2_reverse
+-10.58095238,7,14,8,reverse perturbation,5,exp2_reverse
+-4.704761905,7,15,8,reverse perturbation,5,exp2_reverse
+1.085714286,7,16,8,reverse perturbation,6,exp2_reverse
+-1.533333333,7,17,8,reverse perturbation,6,exp2_reverse
+-4.533333333,7,18,8,reverse perturbation,6,exp2_reverse
+-0.723809524,7,19,8,reverse perturbation,6,exp2_reverse
+0.561904762,7,20,8,reverse perturbation,6,exp2_reverse
+-5.485714286,7,21,8,reverse perturbation,6,exp2_reverse
+-2.533333333,7,22,8,reverse perturbation,7,exp2_reverse
+-2.628571429,7,23,8,reverse perturbation,7,exp2_reverse
+6.180952381,7,24,8,washout,8,exp2_reverse
+4.419047619,7,25,8,washout,8,exp2_reverse
+-7.866666667,7,26,8,washout,9,exp2_reverse
+-5.247619048,7,27,8,washout,9,exp2_reverse
+0.180952381,7,28,8,washout,9,exp2_reverse
