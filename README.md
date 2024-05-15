@@ -19,3 +19,9 @@ You will need R and MATLAB installed on your machine. Additionally, the followin
 - `jags`
 - `rjags`
 - `runjags`
+
+## Related Publication
+For more details on the research underpinning the data and code hosted in this repository, please refer to the following paper:
+
+Volotsky S., Donchin O., Segev R. The archerfish uses motor adaptation in shooting to correct for changing physical conditions. eLife 12, 2024. DOI: https://doi.org/10.7554/eLife.92909.3
+
